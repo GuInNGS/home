@@ -21,8 +21,8 @@ Zekun Zhang, Huiyuan Wang, Ji Wu, Yandong Jin, Shengwu Xiao, Tao Li, Xuqinq Liu,
 Yaxing Zhang, Jun Zhang, Deming Yang, Yandong Jin, Xuqing Liu, Zeyu Zhang, Lianfeng **Gu**, Hangxiao Zhang. (2022). Genome-wide identification of NAP1 and function analysis in moso bamboo (Phyllostachys edulis) _**International Journal of Molecular Sciences**_. Accept
 
 
-Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysis Pipeline for Identification of RNA Modification, Alternative Splicing and Polyadenylation Using Third Generation Sequencing. _**Bioprotocol:Bio-101: e4433.**_
-[DOI:10.21769/BioProtoc.4433.]()
+Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysis Pipeline for Identification of RNA Modification, Alternative Splicing and Polyadenylation Using Third Generation Sequencing. _**Bio-101: e4433.**_
+[DOI:10.21769/BioProtoc.4433.](https://doi.org/10.21769/BioProtoc.4433)
 
 
 
