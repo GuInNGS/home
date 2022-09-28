@@ -56,26 +56,38 @@ Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zh
 
 
 
-
 ### **Papers 2020 (*first-author #corresponding author)**
 
-<H3><li> Yongsheng*,Wang  Huihui Wang*, Feihu Xi, Huiyuan Wang,  Ximei Han,  Wentao Wei,  Hangxiao Zhang,  Qianyue Zhang,  Yushan Zheng,  Qiang Zhu,  Markus V. Kohnen,  Anireddy S. N. Reddy, Lianfeng Gu #. (2020) . <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jipb.13002">Profiling of circular RNA N6‐methyladenosine in moso bamboo (Phyllostachys edulis ) using nanopore‐based direct RNA sequencing. </a> Journal of Integrative Plant Biology, 62(12), 1823-1838.</li></H3>
-
-<H3><li>Reddy, A. S., Huang, J., Syed, N. H., Ben-Hur, A., Dong, S., Gu, L. (2020). <a href="https://portlandpress.com/biochemsoctrans/article/48/6/2399/226973?casa_token=b206mVTPkpEAAAAA:hxFP0d5tenoB_9mXxCMznM4hyi-G6eca4gS-BeS1haJndCQBNLkL6prxtPRs6OSlwEBflou-bg">Decoding co-/post-transcriptional complexities of plant transcriptomes and epitranscriptome using next-generation sequencing technologies. Biochemical Society Transactions, </a>Biochemical Society Transactions, 48(6), 2399-2414.</li></H3>
-
-<H3><li> Shanwen Ye,  Gang Chen,  Markus V. Kohnen,  Wenjia Wang,  Changyang Cai,  WenSha Ding,  Chu Wu,  Lianfeng Gu,  Yushan Zheng,  Xiangqing Ma,  Chentao Lin, Qiang Zhu# . <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13320">Robust CRISPR/Cas9 mediated genome editing and its application in manipulating plant height in the first generation of hexaploid Ma bamboo (Dendrocalamus latiflorus Munro).</a>Plant biotechnology journal, 18(7), 1501.</li></H3>
+Yongsheng*,Wang  Huihui Wang*, Feihu Xi, Huiyuan Wang,  Ximei Han,  Wentao Wei,  Hangxiao Zhang,  Qianyue Zhang,  Yushan Zheng,  Qiang Zhu,  Markus V. Kohnen,  Anireddy S. N. Reddy, **Lianfeng Gu #**. (2020). Profiling of circular RNA N6‐methyladenosine in moso bamboo (Phyllostachys edulis ) using nanopore‐based direct RNA sequencing. _**Journal of Integrative Plant Biology**_ 62(12), 1823-1838.
+[DOI:10.1111/jipb.13002](https://onlinelibrary.wiley.com/doi/abs/10.1111/jipb.13002)
 
 
-<H3><li>Jie Huang, Xinyu Lu, Hongwei Wu, Yuchen Xie, Qian Peng, Lianfeng Gu, Juyou Wu, Yuanchao Wang, Anireddy S.N.Reddy, Suomeng Dong#. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1674205220302203">Phytophthora Effectors Modulate Genome-wide Alternative Splicing of Host mRNAs to Reprogram Plant Immunity.</a>Molecular Plant, 13(10), 1470-1484.</li></H3>
+Reddy, A. S., Huang, J., Syed, N. H., Ben-Hur, A., Dong, S., **Gu, L**. (2020). Decoding co-/post-transcriptional complexities of plant transcriptomes and epitranscriptome using next-generation sequencing technologies. Biochemical Society Transactions, _**Biochemical Society Transactions**_
+[DOI:10.1042/BST20190492](https://portlandpress.com/biochemsoctrans/article-abstract/48/6/2399/226973/Decoding-co-post-transcriptional-complexities-of)
 
-<H3><li> Zhe Zhang, Xuelian Yang, Ling Cheng, Zejun Guo, Huiyuan Wang, Weihuang Wu, Kihye Shin, Jinyao Zhu, Xiaoli Zheng, Jianghu Bian, Yangchen Li, Lianfeng Gu, Qiang Zhu, Zhi-Yong Wang & Wenfei Wang #. <a href="https://link.springer.com/article/10.1007/s00425-020-03432-z">Physiological and transcriptomic analyses of brassinosteroid function in moso bamboo (Phyllostachys edulis) seedlings.</a> Planta, 252(2), 1-13.</li></H3>
+
+Shanwen Ye,  Gang Chen,  Markus V. Kohnen,  Wenjia Wang,  Changyang Cai,  WenSha Ding,  Chu Wu, ** Lianfeng Gu**,  Yushan Zheng,  Xiangqing Ma,  Chentao Lin, Qiang Zhu# . Robust CRISPR/Cas9 mediated genome editing and its application in manipulating plant height in the first generation of hexaploid Ma bamboo (Dendrocalamus latiflorus Munro). _**Plant biotechnology journal**_
+[DOI:10.1111/pbi.13320](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13320)
+
+
+Jie Huang, Xinyu Lu, Hongwei Wu, Yuchen Xie, Qian Peng, **Lianfeng Gu**, Juyou Wu, Yuanchao Wang, Anireddy S.N.Reddy, Suomeng Dong#. Phytophthora Effectors Modulate Genome-wide Alternative Splicing of Host mRNAs to Reprogram Plant Immunity. _**Molecular Plant**_
+[DOI:10.1016/j.molp.2020.07.007](https://www.sciencedirect.com/science/article/abs/pii/S1674205220302203)
+
+
+Zhe Zhang, Xuelian Yang, Ling Cheng, Zejun Guo, Huiyuan Wang, Weihuang Wu, Kihye Shin, Jinyao Zhu, Xiaoli Zheng, Jianghu Bian, Yangchen Li,**Lianfeng Gu**, Qiang Zhu, Zhi-Yong Wang & Wenfei Wang #. Physiological and transcriptomic analyses of brassinosteroid function in moso bamboo (Phyllostachys edulis) seedlings. _**Planta**_, 252(2), 1-13.
+[DOI:10.1007/s00425-020-03432-z](https://link.springer.com/article/10.1007/s00425-020-03432-z)
+
 
 
 ### **Papers 2019 (*first-author #corresponding author)**
 
-        <H3><li> Wang HY*, Wang HH*, Zhang H*, Liu S, Wang Y, Gao Y, Xi F, Zhao L, Liu B, Reddy A, Lin C, Gu L#. (2019). <a href="https://doi.org/10.1093/bioinformatics/btz038">The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species</a>. Bioinformatics, btz038 <a href="http://forestry.fafu.edu.cn/bioinfor/db/ASmiR/">supplemental website </a> </li></H3>
+Wang HY*, Wang HH*, Zhang H*, Liu S, Wang Y, Gao Y, Xi F, Zhao L, Liu B, Reddy A, Lin C, **Gu L#**. (2019). The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species _**Bioinformatics**_
+[DOI:10.1093/bioinformatics/btz038](https://doi.org/10.1093/bioinformatics/btz038)
 
-	<H3><li> Wang Y*, Gao Y*, Zhang H*, Wang H, Liu X, Xu X, Zhang Z, Kohnen M, Hu K, Wang H, Xi F, Zhao L, Lin C, Gu L#. (2019).<a href="https://academic.oup.com/pcp/advance-article-abstract/doi/10.1093/pcp/pcz043/5369732"> Genome-wide profiling of circular RNAs in the rapidly growing shoots of moso bamboo (Phyllostachys edulis).</a> Plant and Cell Physiology. DOI: 10.1093/pcp/pcz043 <a href="http://forestry.fafu.edu.cn/db/PhePacBio/Circular.php">supplemental website </a> </li></H3>
+
+Wang Y*, Gao Y*, Zhang H*, Wang H, Liu X, Xu X, Zhang Z, Kohnen M, Hu K, Wang H, Xi F, Zhao L, Lin C, **Gu L#**. (2019). Genome-wide profiling of circular RNAs in the rapidly growing shoots of moso bamboo (Phyllostachys edulis). _**Plant and Cell Physiology**_
+[DOI:10.1093/pcp/pcz043](https://academic.oup.com/pcp/advance-article-abstract/doi/10.1093/pcp/pcz043/5369732)
+
 
         <H3><li>Yu X, Wang Y, Kohnen M, Piao M, Tu M, Gao Y, Lin C, Zuo Z#, Gu L#. (2019). <a href="https://www.mdpi.com/2073-4409/8/7/744">Large Scale Profiling of Protein Isoforms Using Label-Free Quantitative Proteomics Revealed the Regulation of Nonsense-Mediated Decay in Moso Bamboo (Phyllostachys edulis) </a>. Cells. 8(7), 744;<a href="https://www.mdpi.com/journal/cells/special_issues/Alternative_Splicing">Special Issue "Alternative Splicing: Recent Insights into Mechanisms and Functional Roles"</a> https://doi.org/10.3390/cells8070744 <a href="http://forestry.fafu.edu.cn/pub/cells">supplemental website </a> </li></H3>
 
