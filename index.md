@@ -36,7 +36,7 @@ Xiaqin Wang, Xinyang Yan, Shubin Li, Yun Jing, **Lianfeng Gu**, Shuangquan Zou, 
 [DOI:10.1186/s12864-020-07290-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07290-7)
 
 Jian Wang*, Bizhi Wu*, Markus V. Kohnen*, Daqi Lin,Changcai Yang,Xiaowei Wang,Ailing Qiang, Wei Liu,Jianbin Kang, Hua Li,Jing Shen,Tianhao Yao, Jun Su*,Bangyu Li*,and **Lianfeng Gu***. (2021). Classification of Rice Yield Using UAV-Based Hyperspectral Imagery and Lodging Feature. _**Plant Phenomics**_
-[DOI:10.34133/2021/9765952]("https://spj.sciencemag.org/journals/plantphenomics/2021/9765952/)
+[DOI:10.34133/2021/9765952](https://spj.sciencemag.org/journals/plantphenomics/2021/9765952/)
 
 Huiyuan Wang, Sheng Liu, Xiufang Dai, Yongkang Yang, Yunjun Luo,  Yubang Gao, Xuqing Liu, Wentao Wei, Huihui Wang, Xi Xu,  Anireddy S. Reddy,  Pankaj Jaiswal,  Wei Li,  Bo Liu* and  **Lianfeng Gu***(2021). PSDX: A comprehensive multi-omics association database of Populus trichocarpa with a focus on the secondary growth in response to stresses Front._**Plant Sci**_.
 [DOI:10.3389/fpls.2021.655565](https://www.frontiersin.org/articles/10.3389/fpls.2021.655565)
