@@ -15,7 +15,7 @@ Yushan Zheng, Deming Yang, Jundong Rong, Liguang Chen, Qiang Zhu, Tianyou He, Li
 Zekun Zhang, Huiyuan Wang, Ji Wu, Yandong Jin, Shengwu Xiao, Tao Li, Xuqinq Liu,Hangxiao Zhang, Zeyu Zhang, Jun Su, Jingzao Liu, Xiaoyan Wang, Yubang Gao, Xiangqing Ma and **Lianfeng Gu**. (2022). Comprehensive Transcriptome Analysis of Stem-Differentiating Xylem Upon Compression Stress in Cunninghamia Lanceolata. **_Frontiers in genetics 13_**
 [DOI:10.3389/fgene.2022.843269](https://www.frontiersin.org/articles/10.3389/fgene.2022.843269/full)
 
-Yaxing Zhang, Jun Zhang, Deming Yang, Yandong Jin, Xuqing Liu, Zeyu Zhang, Lianfeng **Gu**, Hangxiao Zhang. (2022). Genome-wide identification of NAP1 and function analysis in moso bamboo (Phyllostachys edulis) _**International Journal of Molecular Sciences**_. Accept
+Yaxing Zhang, Jun Zhang, Deming Yang, Yandong Jin, Xuqing Liu, Zeyu Zhang, **Lianfeng Gu**, Hangxiao Zhang. (2022). Genome-wide identification of NAP1 and function analysis in moso bamboo (Phyllostachys edulis) _**International Journal of Molecular Sciences**_. Accept
 
 Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysis Pipeline for Identification of RNA Modification, Alternative Splicing and Polyadenylation Using Third Generation Sequencing. _**Bio-101: e4433.**_
 [DOI:10.21769/BioProtoc.4433.](https://doi.org/10.21769/BioProtoc.4433)
@@ -32,22 +32,26 @@ Zeyu Zhang*, Huihui Wang*, Yongsheng Wang*, Feihu Xi*, Huiyuan Wang, Markus V. K
 Xuqing Liu*, Yubang Gao*, Jiakai Liao, Miao Miao, Kai Chen, Feihu Xi, Wentao Wei, Huihui Wang, Yongsheng Wang, Xi Xu, Anireddy S.N. Reddy, and **Lianfeng Gu*** . (2021). Genome-wide profiling of circular RNAs, alternative splicing, and R-loops in stem-differentiating xylem of Populus trichocarpa._**Journal of Integrative Plant Biology**_
 [DOI:10.1111/jipb.13081](https://doi.org/10.1111/jipb.13081)
 
-
 Xiaqin Wang, Xinyang Yan, Shubin Li, Yun Jing, **Lianfeng Gu**, Shuangquan Zou, Jin Zhang*, Bobin Liu*, (2021), Genome-wide identification, evolution and expression analysis of the aspartic protease gene family during rapid growth of moso bamboo (Phyllostachys edulis) shoots. _**BMC Genomics25**_
 [DOI:10.1186/s12864-020-07290-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07290-7)
 
 Jian Wang*, Bizhi Wu*, Markus V. Kohnen*, Daqi Lin,Changcai Yang,Xiaowei Wang,Ailing Qiang, Wei Liu,Jianbin Kang, Hua Li,Jing Shen,Tianhao Yao, Jun Su*,Bangyu Li*,and **Lianfeng Gu***. (2021). Classification of Rice Yield Using UAV-Based Hyperspectral Imagery and Lodging Feature. _**Plant Phenomics**_
 [DOI:10.34133/2021/9765952]("https://spj.sciencemag.org/journals/plantphenomics/2021/9765952/)
 
-
 Huiyuan Wang, Sheng Liu, Xiufang Dai, Yongkang Yang, Yunjun Luo,  Yubang Gao, Xuqing Liu, Wentao Wei, Huihui Wang, Xi Xu,  Anireddy S. Reddy,  Pankaj Jaiswal,  Wei Li,  Bo Liu* and  **Lianfeng Gu***(2021). PSDX: A comprehensive multi-omics association database of Populus trichocarpa with a focus on the secondary growth in response to stresses Front._**Plant Sci**_.
 [DOI:10.3389/fpls.2021.655565](https://www.frontiersin.org/articles/10.3389/fpls.2021.655565)
 
-<H3><li>Guihua Jin, Peng-Fei Ma, Xiaopei Wu, Lianfeng Gu, Manyuan Long#, Chengjun Zhang#, De-Zhu Li#  <a href="https://academic.oup.com/mbe/article/38/12/5752/6377341"> New Genes Interacted With Recent Whole-Genome Duplicates in the Fast Stem Growth of Bamboos. </a>(2021) Molecular Biology and Evolution, 38(12):5752–5768 </li></H3>
 
-<H3><li>Wang, Xu *, Bochen Jiang*, Lianfeng Gu*, Yadi Chen, Manuel Mora, Mulangma Zhu, Eliace Noory, Qin Wang#, and Chentao Lin#. "A photoregulatory mechanism of the circadian clock in Arabidopsis." Nature Plants 7, no. 10 (2021): 1397-1408. </li></H3>
+Guihua Jin, Peng-Fei Ma, Xiaopei Wu, **Lianfeng Gu**, Manyuan Long#, Chengjun Zhang#, De-Zhu Li#. New Genes Interacted With Recent Whole-Genome Duplicates in the Fast Stem Growth of Bamboos. (2021) _**Molecular Biology and Evolution** _
+[DOI:38(12):5752–5768](https://academic.oup.com/mbe/article/38/12/5752/6377341)
 
-<H3><li>Gu L., Zhang H., Gao J. (2021) Alternative Splicing and Alternative Polyadenylation in Moso Bamboo. In: Gao J. (eds)  <a href="https://link.springer.com/chapter/10.1007/978-3-030-80836-5_7">The Moso Bamboo Genome. Compendium of Plant Genomes. </a>Springer, Cham. https://doi.org/10.1007/978-3-030-80836-5_7 </li></H3>
+
+Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zhu, Eliace Noory, Qin Wang#, and Chentao Lin#. "A photoregulatory mechanism of the circadian clock in Arabidopsis." _**Nature Plants**_ 7 pages1397–1408 (2021)
+[DOI:10.1038/s41477-021-01002-z](https://www.nature.com/articles/s41477-021-01002-z#citeas)
+
+
+**Gu L**., Zhang H., Gao J. (2021) Alternative Splicing and Alternative Polyadenylation in Moso Bamboo. In: Gao J. (eds). The Moso Bamboo Genome. Compendium of Plant Genomes. _**Springer**_
+[DOI:10.1007/978-3-030-80836-5_7](https://link.springer.com/chapter/10.1007/978-3-030-80836-5_7)
 
 
 
