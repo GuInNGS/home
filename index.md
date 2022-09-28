@@ -1,4 +1,18 @@
-## Welcome to Gu LAB
+# Welcome to Gu LAB
+
+## **Description**
+
+## **Publicaiton**
+
+### **Paper 2022**
+
+[Yubang Gao, Xuqing Liu, Yandong Jin, Ji Wu, Shuang Li, Yaxing Li, Binqing Chen, Yaxin Zhang, Linxiao Wei, Wei Li, Ruili Li, Chentao Lin, Anireddy S N Reddy, Pankaj Jaiswal, Lianfeng Gu. (2022).](https://academic.oup.com/plphys/advance-article-abstract/doi/10.1093/plphys/kiac272/6603714?redirectedFrom=fulltext)
+
+_Plant Physiology_
+
+[Drought induces epitranscriptome and proteome changes in stem-differentiating xylem of Populus trichocarpa.](https://doi.org/10.1093/plphys/kiac272)
+
+
 
 You can use the [editor on GitHub](https://github.com/GuNano/NGS.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
