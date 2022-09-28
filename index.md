@@ -1,4 +1,4 @@
-# Welcome to Gu LAB
+# **Welcome to Gu LAB**
 
 ## **Description**
 
@@ -19,6 +19,7 @@ Yaxing Zhang, Jun Zhang, Deming Yang, Yandong Jin, Xuqing Liu, Zeyu Zhang, **Lia
 
 Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysis Pipeline for Identification of RNA Modification, Alternative Splicing and Polyadenylation Using Third Generation Sequencing. _**Bio-101: e4433.**_
 [DOI:10.21769/BioProtoc.4433.](https://doi.org/10.21769/BioProtoc.4433)
+
 
 
 ### **Papers 2021 (*first-author #corresponding author)**
@@ -55,31 +56,8 @@ Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zh
 
 
 
-### **Markdown**
 
-**Markdown** is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-11ddd
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 
