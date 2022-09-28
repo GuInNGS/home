@@ -115,33 +115,49 @@ Zhu, Danling, Fei Mao, Yuanchun Tian, Xiaoya Lin, **Lianfeng Gu**, Hongya Gu, Li
 
 ### **Papers 2018 (*first-author   #corresponding author)**
 
-	<H3><li>Ye G*, Zhang H*, Chen B, Nie S, Liu H, Gao W, Wang H, Gao Y, Gu L#. <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.14159">De novo genome assembly of the stress tolerant forest species Casuarina equisetifolia provides insight into secondary growth</a>, (2018), Plant Journal. https://doi.org/10.1111/tpj.14159. <a href="http://forestry.fafu.edu.cn/db/Casuarinaceae">supplemental website </a> </li></H3></li></H3>
+Ye G*, Zhang H*, Chen B, Nie S, Liu H, Gao W, Wang H, Gao Y, **Gu L#**. De novo genome assembly of the stress tolerant forest species Casuarina equisetifolia provides insight into secondary growth (2018). _**Plant Journal**_.
+[DOI:/10.1111/tpj.14159](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.1415)
 
-	<H3><li> Gao Y, Wang H, Zhang H, Wang Y, Chen J, Gu L#, (2018), <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx830/4769502">PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq.</a> Bioinformatics, btx830, https://doi.org/10.1093/bioinformatics/btx83 <a href="http://www.bioinfor.org/bioinfor/tool/PRAPI">supplemental website </a> </li></H3>
+Gao Y, Wang H, Zhang H, Wang Y, Chen J, **Gu L#**, (2018), PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq. _**Bioinformatics**_
+[DOI:10.1093/bioinformatics/btx83](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx830/4769502)
 
-	<H3><li> Zhang H*, Wang H*, Zhu Q*, Gao Y, Wang H, Zhao L, Wang Y, Xi F, Wang W, Yang Y, Lin C, Gu L# (2018),<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1336-z"> Transcriptome characterization of moso bamboo (Phyllostachys edulis) seedlings in response to exogenous gibberellin applications</a>, BMC plant biology,2018,18:125 <a href="http://forestry.fafu.edu.cn/db/PhePacBio/GA.php">supplemental website </a> </li></H3></li></H3>
+Zhang H*, Wang H*, Zhu Q*, Gao Y, Wang H, Zhao L, Wang Y, Xi F, Wang W, Yang Y, Lin C, **Gu L#** (2018), Transcriptome characterization of moso bamboo (Phyllostachys edulis) seedlings in response to exogenous gibberellin applications, _**BMC plant biology**_, 2018,18:125
+[DOI:10.1186/s12870-018-1336-z](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1336-z)
 
-	<H3><li> Wang Q, Zuo Z, Wang X, Liu Q, Gu L, Oka Y, Lin C (2018),<a href="https://www.sciencedirect.com/science/article/pii/S1369526618300360">Beyond the photocycle – how cryptochromes regulate photoresponses in plants?</a>, Current Option in Plant Biology, 45, 120-126.</li></H3></li></H3>
+Wang Q, Zuo Z, Wang X, Liu Q, **Gu L**, Oka Y, Lin C (2018), Beyond the photocycle – how cryptochromes regulate photoresponses in plants?, _**Current Option in Plant Biology**_, 45, 120-126.
+[DOI:10.1016/j.pbi.2018.05.014](https://www.sciencedirect.com/science/article/pii/S1369526618300360)
 
-	<H3><li>Wang, G., Sun, P., Gong, Z., Gu, L., Lou, Y., Fang, W., Zhang, L., Su, L., Yang, T., Wang, B. and Zhou, J., 2018. <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14299">Srk1 kinase, a SR protein‐specific kinase, is important for sexual reproduction, plant infection and pre‐mRNA processing in Fusarium graminearum. </a>Environmental microbiology.</li></H3></li></H3>
+Wang, G., Sun, P., Gong, Z., **Gu, L**., Lou, Y., Fang, W., Zhang, L., Su, L., Yang, T., Wang, B. and Zhou, J., 2018. Srk1 kinase, a SR protein‐specific kinase, is important for sexual reproduction, plant infection and pre‐mRNA processing in Fusarium graminearum. _**Environmental microbiology**_
+[DOI:10.1111/1462-2920.14299](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14299)
+
+Liu B., Zhang J., Yang Z., Matsui A., Li S., Yan X., Kohnena M., **Gu L**., Prasad K., Tuskan G., Lu M.,# Oka Y.# (2018). PtWOX11 acts as master regulator conducting the expression of key transcription factors to induce de novo shoot organogenesis in poplar. _**Plant Molecular Biology**_. (2018): 1-18.
+[DOI:10.1007/s11103-018-0786-x](https://dx.doi.org/10.1007/s11103-018-0786-x)
 
 
-	<H3><li> Liu B., Zhang J., Yang Z., Matsui A., Li S., Yan X., Kohnena M., Gu L., Prasad K., Tuskan G., Lu M.,# Oka Y.# (2018). <a href="https://dx.doi.org/10.1007/s11103-018-0786-x">PtWOX11 acts as master regulator conducting the expression of key transcription factors to induce de novo shoot organogenesis in poplar.</a> Plant Molecular Biology. (2018): 1-18. </li></H3></li></H3>
 
 ### **Papers 2017 (*first-author   #corresponding author)**
 
-			<H3><li> Wang T*, Wang H*, Cai D*, Gao Y, Zhang H, Wang Y, Lin C, Ma L#, Gu L#, (2017), <a href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13597/full">Comprehensive profiling of rhizome-associated alternative splicing and alternative polyadenylation in moso bamboo (Phyllostachys edulis).</a> The Plant Journal. 2017;91(4):684-99. DOI: 10.1111/tpj.13597 <a href="http://forestry.fafu.edu.cn/db/PhePacBio/">supplemental website </a> </li></H3>
-
-			<H3><li> Huang J, Gu L, Zhang Y, Yan T, Kong G, Kong L, Guo B, Qiu M, Wang Y, Jing M, Xing W, Ye W, Wu Z, Zhang Z, Zheng X, Gijzen M, Wang Y, Dong S(2017), <a href="https://www.nature.com/articles/s41467-017-02233-5#Sec10">An oomycete plant pathogen reprograms host pre-mRNA splicing to subvert immunity</a> Nature Communications, doi:10.1038/s41467-017-02233-5</li></H3>
-
-			<H3><li> Ma X, Liu C, Gu L, Mo B, Cao X, Chen X. (2017), <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx797/4721784">TarHunter, a tool for predicting conserved microRNA targets and target mimics in plants</a> Bioinformatics, btx797, https://doi.org/10.1093/bioinformatics/btx797 </li></H3>
-
-			<H3><li> Wang W*, Gu L*, Ye S, Zhang H, Cai C, Xiang M, Gao Y, Wang Q, Lin C, Zhu Q#, (2017),<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4250-0"> Genome-wide analysis and transcriptomic profiling of the auxin biosynthesis, transport and signaling family genes in moso bamboo (Phyllostachys heterocycla).</a> BMC Genomics. 2017 Nov 13;18(1):870. doi: 10.1186/s12864-017-4250-0. </li></H3>
-
-			<H3><li> Wang K*, Jiao Z*, Xu M*, Wang Y, Li R, Cui X,<strong> Gu L#, </strong>Zhang S#. (2017), <a href="http://www.sciencedirect.com/science/article/pii/S2468014117300080">Landscape and Fruit Developmental Regulation of Alternative Splicing in Tomato by Genome-wide Analysis</a> Horticultural Plant Journal. <a href="http://forestry.fafu.edu.cn/bioinfor/db/ASmiR/gb/sly/Jbnest.php">supplemental website  </a> </li> </H3>
+Wang T*, Wang H*, Cai D*, Gao Y, Zhang H, Wang Y, Lin C, Ma L#, **Gu L#**, (2017), Comprehensive profiling of rhizome-associated alternative splicing and alternative polyadenylation in moso bamboo (Phyllostachys edulis). _**The Plant Journal**_. 2017;91(4):684-99.
+[DOI:10.1111/tpj.13597](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13597/ful)
 
 
-			<H3><li> Wang, X., Wang, Q., Han, Y.J., Liu, Q., Gu, L., Yang, Z., Su, J., Liu, B., Zuo, Z., and He, W., Wang,J., Liu, B., Matsui, M., Kim,J., Oka, Y., Lin,C (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13664/full">A CRY-BIC negative feedback circuitry regulating blue light sensitivity of Arabidopsis. The Plant Journal. </a> </li></H3>
+Huang J, **Gu L**, Zhang Y, Yan T, Kong G, Kong L, Guo B, Qiu M, Wang Y, Jing M, Xing W, Ye W, Wu Z, Zhang Z, Zheng X, Gijzen M, Wang Y, Dong S(2017), An oomycete plant pathogen reprograms host pre-mRNA splicing to subvert immunity. _**Nature Communications**_.
+[DOI:10.1038/s41467-017-02233-5](https://www.nature.com/articles/s41467-017-02233-5#Sec10)
+
+
+Ma X, Liu C, **Gu L**, Mo B, Cao X, Chen X. (2017), TarHunter, a tool for predicting conserved microRNA targets and target mimics in plants. _**Bioinformatics**_.
+[DOI:10.1093/bioinformatics/btx797](https://academic.oup.com/bioinformatics/article/34/9/1574/4721784)
+
+
+Wang W*, **Gu L***, Ye S, Zhang H, Cai C, Xiang M, Gao Y, Wang Q, Lin C, Zhu Q#, (2017), Genome-wide analysis and transcriptomic profiling of the auxin biosynthesis, transport and signaling family genes in moso bamboo (Phyllostachys heterocycla). _**BMC Genomics**_. 2017 Nov 13;18(1):870
+[DOI:10.1186/s12864-017-4250-0](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4250-0)
+
+
+Wang K*, Jiao Z*, Xu M*, Wang Y, Li R, Cui X, **Gu L#**, Zhang S#. (2017), Landscape and Fruit Developmental Regulation of Alternative Splicing in Tomato by Genome-wide Analysis. _**Horticultural Plant Journal**_.
+[DOI:10.1016/j.hpj.2017.01.007](http://www.sciencedirect.com/science/article/pii/S2468014117300080)
+
+
+Wang, X., Wang, Q., Han, Y.J., Liu, Q., Gu, L., Yang, Z., Su, J., Liu, B., Zuo, Z., and He, W., Wang,J., Liu, B., Matsui, M., Kim,J., Oka, Y., Lin,C (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13664/full">A CRY-BIC negative feedback circuitry regulating blue light sensitivity of Arabidopsis. The Plant Journal. </a> </li></H3>
 
                         <H3><li>Hansheng Zhao*, Shancen Zhao*, International Network for Bamboo and Rattan, Benhua Fei, Huan Liu, Huanming Yang, Honghai Dai, Dan Wang, Wei Jin, Feng Tang, Qiang Gao, Hang Xun, Yuwei Wang, Lianghua Qi, Xianghua Yue, Shuyan Lin, Lianfeng Gu, Lubin Li, Tiansheng Zhu, Qiang Wei, Zhen Su, Tarmeze Bin Wan Ariffin Wan, Daniel A. Ofori, George Mbeva Muthike, Yigardu Mulatu Mengesha, Roberto Magno de Castro e Silva, Antonio Ludovico Beraldo, Zhimin Gao#, Xin Liu#, Zehui Jiang#; <a href="https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix046">Announcing the Genome Atlas of Bamboo and Rattan (GABR) project: promoting research in evolution and in economically and ecologically beneficial plants.</a> Gigascience 2017 gix046. doi: 10.1093/gigascience/gix046 </a> </li> </H3>
 
