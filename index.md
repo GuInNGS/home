@@ -57,6 +57,119 @@ Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zh
 
 
 
+### **Papers 2020 (*first-author #corresponding author)**
+
+<H3><li> Yongsheng*,Wang  Huihui Wang*, Feihu Xi, Huiyuan Wang,  Ximei Han,  Wentao Wei,  Hangxiao Zhang,  Qianyue Zhang,  Yushan Zheng,  Qiang Zhu,  Markus V. Kohnen,  Anireddy S. N. Reddy, Lianfeng Gu #. (2020) . <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jipb.13002">Profiling of circular RNA N6‐methyladenosine in moso bamboo (Phyllostachys edulis ) using nanopore‐based direct RNA sequencing. </a> Journal of Integrative Plant Biology, 62(12), 1823-1838.</li></H3>
+
+<H3><li>Reddy, A. S., Huang, J., Syed, N. H., Ben-Hur, A., Dong, S., Gu, L. (2020). <a href="https://portlandpress.com/biochemsoctrans/article/48/6/2399/226973?casa_token=b206mVTPkpEAAAAA:hxFP0d5tenoB_9mXxCMznM4hyi-G6eca4gS-BeS1haJndCQBNLkL6prxtPRs6OSlwEBflou-bg">Decoding co-/post-transcriptional complexities of plant transcriptomes and epitranscriptome using next-generation sequencing technologies. Biochemical Society Transactions, </a>Biochemical Society Transactions, 48(6), 2399-2414.</li></H3>
+
+<H3><li> Shanwen Ye,  Gang Chen,  Markus V. Kohnen,  Wenjia Wang,  Changyang Cai,  WenSha Ding,  Chu Wu,  Lianfeng Gu,  Yushan Zheng,  Xiangqing Ma,  Chentao Lin, Qiang Zhu# . <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13320">Robust CRISPR/Cas9 mediated genome editing and its application in manipulating plant height in the first generation of hexaploid Ma bamboo (Dendrocalamus latiflorus Munro).</a>Plant biotechnology journal, 18(7), 1501.</li></H3>
+
+
+<H3><li>Jie Huang, Xinyu Lu, Hongwei Wu, Yuchen Xie, Qian Peng, Lianfeng Gu, Juyou Wu, Yuanchao Wang, Anireddy S.N.Reddy, Suomeng Dong#. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1674205220302203">Phytophthora Effectors Modulate Genome-wide Alternative Splicing of Host mRNAs to Reprogram Plant Immunity.</a>Molecular Plant, 13(10), 1470-1484.</li></H3>
+
+<H3><li> Zhe Zhang, Xuelian Yang, Ling Cheng, Zejun Guo, Huiyuan Wang, Weihuang Wu, Kihye Shin, Jinyao Zhu, Xiaoli Zheng, Jianghu Bian, Yangchen Li, Lianfeng Gu, Qiang Zhu, Zhi-Yong Wang & Wenfei Wang #. <a href="https://link.springer.com/article/10.1007/s00425-020-03432-z">Physiological and transcriptomic analyses of brassinosteroid function in moso bamboo (Phyllostachys edulis) seedlings.</a> Planta, 252(2), 1-13.</li></H3>
+
+
+### **Papers 2019 (*first-author #corresponding author)**
+
+        <H3><li> Wang HY*, Wang HH*, Zhang H*, Liu S, Wang Y, Gao Y, Xi F, Zhao L, Liu B, Reddy A, Lin C, Gu L#. (2019). <a href="https://doi.org/10.1093/bioinformatics/btz038">The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species</a>. Bioinformatics, btz038 <a href="http://forestry.fafu.edu.cn/bioinfor/db/ASmiR/">supplemental website </a> </li></H3>
+
+	<H3><li> Wang Y*, Gao Y*, Zhang H*, Wang H, Liu X, Xu X, Zhang Z, Kohnen M, Hu K, Wang H, Xi F, Zhao L, Lin C, Gu L#. (2019).<a href="https://academic.oup.com/pcp/advance-article-abstract/doi/10.1093/pcp/pcz043/5369732"> Genome-wide profiling of circular RNAs in the rapidly growing shoots of moso bamboo (Phyllostachys edulis).</a> Plant and Cell Physiology. DOI: 10.1093/pcp/pcz043 <a href="http://forestry.fafu.edu.cn/db/PhePacBio/Circular.php">supplemental website </a> </li></H3>
+
+        <H3><li>Yu X, Wang Y, Kohnen M, Piao M, Tu M, Gao Y, Lin C, Zuo Z#, Gu L#. (2019). <a href="https://www.mdpi.com/2073-4409/8/7/744">Large Scale Profiling of Protein Isoforms Using Label-Free Quantitative Proteomics Revealed the Regulation of Nonsense-Mediated Decay in Moso Bamboo (Phyllostachys edulis) </a>. Cells. 8(7), 744;<a href="https://www.mdpi.com/journal/cells/special_issues/Alternative_Splicing">Special Issue "Alternative Splicing: Recent Insights into Mechanisms and Functional Roles"</a> https://doi.org/10.3390/cells8070744 <a href="http://forestry.fafu.edu.cn/pub/cells">supplemental website </a> </li></H3>
+
+	<H3><li> Zhao L, Zhang H, Kohnen M, Prasad K, Gu L#, Reddy A#. (2019), <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00253/abstract">Analysis of transcriptome and epitranscriptome in plants using PacBio Iso-Seq and Nanopore-based direct RNA sequencing.</a> Front. Genet. doi: 10.3389/fgene.2019.00253<a href="https://www.frontiersin.org/research-topics/7925/transcript-profiling-using-single-molecule-long-read-sequencing-technologies#articles">Research Topic: Transcript Profiling Using Single Molecule, Long-Read Sequencing Technologies</a></li></H3>
+
+	<H3><li> Wu B, Zhang H, Lin L, Wang H, Gao Y, Zhao L, Chen YP #, Chen R #, Gu L# (2019),<a href="http://www.eurekaselect.com/169619"> A similarity searching system for biological phenotype images using deep convolutional encoder-decoder architecture.</a> Current Bioinformatics, DOI : 10.2174/1574893614666190204150109 <a href="https://github.com/wubizhi/Phenotypic-images-retrieval-system">supplemental website </a> </li></H3></li></H3>
+
+	<H3><li> Gao Y, Xi F, Zhang H, Liu X, Wang H, Zhao L, Reddy A, Gu L # (2019),<a href="http://www.eurekaselect.com/169621"> Single-molecule real-time (SMRT) isoform sequencing (Iso-Seq) in plants: The status of the bioinformatics tools to unravel the transcriptome complexity,</a> Current Bioinformatics, DOI : 10.2174/1574893614666190204151746 <a href="http://www.bioinfor.org/bioinfor/tool/PRAPI/tools.php">supplemental website </a> </li></H3></li></H3>
+
+	<H3><li> Clark S, Yu F, Gu L, Min X# (2019) <a href="https://www.frontiersin.org/articles/10.3389/fpls.2019.00689/abstract"> Expanding alternative splicing identification by integrating multiple sources of transcription data in tomato ,</a> Front. Plant Sci. | doi: 10.3389/fpls.2019.00689 <a href="https://www.frontiersin.org/research-topics/8930/alternative-splicing-regulation-in-plants#articles"> Research Topic: Alternative Splicing Regulation in Plants </a> </li></H3></li></H3> 
+
+       <H3><li> Liu Xu, Gao Y, Zhao L, Cai Y, Wang H, Miao M, Gu L#, Zhang H# (2019) <a href="http://www.chinagene.cn/CN/10.16288/j.yczz.19-061">Biogenesis, research methods, and functions of circular RNAs</a> Hereditas. Vol. 41 Issue (6): 469-485 </li></H3></li></H3>
+
+        <H3><li>Yang Z, Chen L, Kohnen MV, Xiong B, Zhen X, Liao J, Oka Y, Zhu Q, Gu L, Lin C#, Liu B#. <a href="https://www.nature.com/articles/s41598-019-51278-7">Identification and Characterization of the PEBP Family Genes in Moso Bamboo (Phyllostachys heterocycla). </a>Scientific Reports. 2019 Oct 18;9(1):1-2 </li></H3></li></H3>
+
+
+        <H3><li>Zhu, Danling, Fei Mao, Yuanchun Tian, Xiaoya Lin, Lianfeng Gu, Hongya Gu, Li-jia Qu, Yufeng Wu, and Zhe Wu.<a href="https://www.sciencedirect.com/science/article/abs/pii/S1674205219303685">The features and regulation of co-transcriptional splicing in Arabidopsis.</a> Molecular plant (2019).
+
+
+### **Papers 2018 (*first-author   #corresponding author)**
+
+	<H3><li>Ye G*, Zhang H*, Chen B, Nie S, Liu H, Gao W, Wang H, Gao Y, Gu L#. <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.14159">De novo genome assembly of the stress tolerant forest species Casuarina equisetifolia provides insight into secondary growth</a>, (2018), Plant Journal. https://doi.org/10.1111/tpj.14159. <a href="http://forestry.fafu.edu.cn/db/Casuarinaceae">supplemental website </a> </li></H3></li></H3>
+
+	<H3><li> Gao Y, Wang H, Zhang H, Wang Y, Chen J, Gu L#, (2018), <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx830/4769502">PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq.</a> Bioinformatics, btx830, https://doi.org/10.1093/bioinformatics/btx83 <a href="http://www.bioinfor.org/bioinfor/tool/PRAPI">supplemental website </a> </li></H3>
+
+	<H3><li> Zhang H*, Wang H*, Zhu Q*, Gao Y, Wang H, Zhao L, Wang Y, Xi F, Wang W, Yang Y, Lin C, Gu L# (2018),<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1336-z"> Transcriptome characterization of moso bamboo (Phyllostachys edulis) seedlings in response to exogenous gibberellin applications</a>, BMC plant biology,2018,18:125 <a href="http://forestry.fafu.edu.cn/db/PhePacBio/GA.php">supplemental website </a> </li></H3></li></H3>
+
+	<H3><li> Wang Q, Zuo Z, Wang X, Liu Q, Gu L, Oka Y, Lin C (2018),<a href="https://www.sciencedirect.com/science/article/pii/S1369526618300360">Beyond the photocycle – how cryptochromes regulate photoresponses in plants?</a>, Current Option in Plant Biology, 45, 120-126.</li></H3></li></H3>
+
+	<H3><li>Wang, G., Sun, P., Gong, Z., Gu, L., Lou, Y., Fang, W., Zhang, L., Su, L., Yang, T., Wang, B. and Zhou, J., 2018. <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14299">Srk1 kinase, a SR protein‐specific kinase, is important for sexual reproduction, plant infection and pre‐mRNA processing in Fusarium graminearum. </a>Environmental microbiology.</li></H3></li></H3>
+
+
+	<H3><li> Liu B., Zhang J., Yang Z., Matsui A., Li S., Yan X., Kohnena M., Gu L., Prasad K., Tuskan G., Lu M.,# Oka Y.# (2018). <a href="https://dx.doi.org/10.1007/s11103-018-0786-x">PtWOX11 acts as master regulator conducting the expression of key transcription factors to induce de novo shoot organogenesis in poplar.</a> Plant Molecular Biology. (2018): 1-18. </li></H3></li></H3>
+
+### **Papers 2017 (*first-author   #corresponding author)**
+
+			<H3><li> Wang T*, Wang H*, Cai D*, Gao Y, Zhang H, Wang Y, Lin C, Ma L#, Gu L#, (2017), <a href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13597/full">Comprehensive profiling of rhizome-associated alternative splicing and alternative polyadenylation in moso bamboo (Phyllostachys edulis).</a> The Plant Journal. 2017;91(4):684-99. DOI: 10.1111/tpj.13597 <a href="http://forestry.fafu.edu.cn/db/PhePacBio/">supplemental website </a> </li></H3>
+
+			<H3><li> Huang J, Gu L, Zhang Y, Yan T, Kong G, Kong L, Guo B, Qiu M, Wang Y, Jing M, Xing W, Ye W, Wu Z, Zhang Z, Zheng X, Gijzen M, Wang Y, Dong S(2017), <a href="https://www.nature.com/articles/s41467-017-02233-5#Sec10">An oomycete plant pathogen reprograms host pre-mRNA splicing to subvert immunity</a> Nature Communications, doi:10.1038/s41467-017-02233-5</li></H3>
+
+			<H3><li> Ma X, Liu C, Gu L, Mo B, Cao X, Chen X. (2017), <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx797/4721784">TarHunter, a tool for predicting conserved microRNA targets and target mimics in plants</a> Bioinformatics, btx797, https://doi.org/10.1093/bioinformatics/btx797 </li></H3>
+
+			<H3><li> Wang W*, Gu L*, Ye S, Zhang H, Cai C, Xiang M, Gao Y, Wang Q, Lin C, Zhu Q#, (2017),<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4250-0"> Genome-wide analysis and transcriptomic profiling of the auxin biosynthesis, transport and signaling family genes in moso bamboo (Phyllostachys heterocycla).</a> BMC Genomics. 2017 Nov 13;18(1):870. doi: 10.1186/s12864-017-4250-0. </li></H3>
+
+			<H3><li> Wang K*, Jiao Z*, Xu M*, Wang Y, Li R, Cui X,<strong> Gu L#, </strong>Zhang S#. (2017), <a href="http://www.sciencedirect.com/science/article/pii/S2468014117300080">Landscape and Fruit Developmental Regulation of Alternative Splicing in Tomato by Genome-wide Analysis</a> Horticultural Plant Journal. <a href="http://forestry.fafu.edu.cn/bioinfor/db/ASmiR/gb/sly/Jbnest.php">supplemental website  </a> </li> </H3>
+
+
+			<H3><li> Wang, X., Wang, Q., Han, Y.J., Liu, Q., Gu, L., Yang, Z., Su, J., Liu, B., Zuo, Z., and He, W., Wang,J., Liu, B., Matsui, M., Kim,J., Oka, Y., Lin,C (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13664/full">A CRY-BIC negative feedback circuitry regulating blue light sensitivity of Arabidopsis. The Plant Journal. </a> </li></H3>
+
+                        <H3><li>Hansheng Zhao*, Shancen Zhao*, International Network for Bamboo and Rattan, Benhua Fei, Huan Liu, Huanming Yang, Honghai Dai, Dan Wang, Wei Jin, Feng Tang, Qiang Gao, Hang Xun, Yuwei Wang, Lianghua Qi, Xianghua Yue, Shuyan Lin, Lianfeng Gu, Lubin Li, Tiansheng Zhu, Qiang Wei, Zhen Su, Tarmeze Bin Wan Ariffin Wan, Daniel A. Ofori, George Mbeva Muthike, Yigardu Mulatu Mengesha, Roberto Magno de Castro e Silva, Antonio Ludovico Beraldo, Zhimin Gao#, Xin Liu#, Zehui Jiang#; <a href="https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix046">Announcing the Genome Atlas of Bamboo and Rattan (GABR) project: promoting research in evolution and in economically and ecologically beneficial plants.</a> Gigascience 2017 gix046. doi: 10.1093/gigascience/gix046 </a> </li> </H3>
+
+	<H3><li>Zhang, H., Lin, C. and <strong>Gu, L #.</strong> (2017), <a href="http://onlinelibrary.wiley.com/doi/10.1111/php.12680/abstract">Light Regulation of Alternative Pre-mRNA Splicing in Plants. Photochem Photobiol.</a> Photochem Photobiol. doi:10.1111/php.12680.</li> </H3>
+
+
+### **Papers 2016(*first-author   †corresponding author)**
+			<H3><li>Wang Q*, Zuo Z*, Wang X*, Gu L, Yoshizumi T,Yang,Z H,Liu Q,Liu W,Han Y,Liu B, Wohlschlegel J A, Matsui M, Oka Y and Lin C.(2016)<a href="http://science.sciencemag.org/content/354/6310/343">  Photoactivation and inactivation mechanisms of Arabidopsis cryptochrome2.</a>  Science.Vol. 354, Issue 6310, pp. 343-347.DOI: 10.1126/science.aaf9030 </li> </H3>
+
+			<H3><li> Yan H, Zhang H, Wang Q, Jian H, Qiu X, Baudino S, Just J, Raymond O, <strong>Gu L,</strong> Jihua W, Bendahmane M and Tang K (2016).<a href="http://journal.frontiersin.org/article/10.3389/fpls.2016.00996/full"> The Rosa chinensis cv. Viridiflora phyllody phenotype is associated with misexpression of flower organ identity genes. </a>Front. Plant Sci. 7:996. doi: 10.3389/fpls.2016.00996 </li> </H3>
+
+			<H3><li> Li S, Zhang G, Zhang X, Yuan J, Deng C, <strong>Gu L†,</strong> Gao W†. <a href="http://database.oxfordjournals.org/content/2016/baw078.abstract?sid=bf8d7f97-177d-40b6-ab95-149898bbf618">DPTEdb, an integrative database of transposable elements in dioecious plants.</a> Database 2016: baw078 doi:10.1093/database/baw078 (†co-corresponding).</li> </H3>
+
+			<H3><li>Li C, <strong>Gu L, </strong>Gao L, Chen C, Wei C, Qiu Q, Chien C, Wang S, Jiang L, Chen C, Yang S, Nguyen V, Snyder M, Burlingame A, Kohalmi S, Huang S, Cao X, Wang Z, Wu K, Chen X, Cui Y.<a href="http://www.nature.com/ng/journal/v48/n6/full/ng.3555.html"> Concerted genomic targeting of histone H3 lysine 27 demethylase REF6 and chromatin-remodeling ATPase BRM in Arabidopsis.</a> Nature genetics. (2016). doi:10.1038/ng.3555</li> </H3>
+
+			<H3><li>Cui X*, Lu F*, Qiu Q*, Zhou B*, Gu L, Zhang S, Kang Y, Cui X, Ma X, Yao Q, Ma J, Zhang X, Cao X.<a href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3556.html"> REF6 recognizes a specific DNA sequence to demethylate H3K27me3 and regulate organ boundary formation in Arabidopsis.</a> Nature genetics. (2016). doi:10.1038/ng.3556</li> </H3>
+	
+			<H3><li>Deng X*, Lu T*, Wang L*, Gu L, Sun J, Kong X, Liu C, Cao X. <a href="http://www.pnas.org/content/113/19/5447.long">Recruitment of the NineTeen Complex to the activated spliceosome requires AtPRMT5.</a>PNAS 2016, doi:10.1073/pnas.1522458113</li> </H3>
+
+			<H3><li>Zhang S, Xu M, Qiu Z, Wang K, Du Y, Gu L†, Cui X†.<a href="http://www.nature.com/articles/srep23173"> Spatiotemporal transcriptome provides insights into early fruit development of Solanum lycopersicum,</a> Sci. Rep. 6, 23173; doi: 10.1038/srep23173 (2016). (†co-corresponding).</li> </H3>
+
+			<H3><li>Wu, Z*, Zhu D*, Lin X*, Miao L*,<strong> Gu L, </strong> Deng X, Yang Q, Sun K, Zhu D, Cao X, TSUGE T, Dean C, Aoyama T, Gu H, Qu L. <a href="http://www.plantcell.org/content/28/1/55.abstract">RNA-binding proteins At RZ-1B and At RZ-1C play a critical role in regulation of pre-mRNA splicing and gene expression during Arabidopsis development. </a>The Plant Cell (2016): TPC2015-00949..</li> </H3>
+
+### **Papers before 2016**
+			<H3><li>Zhang Y.,*<strong> Gu, L.,* </strong>Hou, Y.*, Wang L., Deng, X., Hang, R.,Chen,D., Zhang,X., Zhang, Y., Liu, C., and Cao, X. 2015 Integrative genome-wide analysis reveals HLP1, a novel RNA-binding protein， regulates plant flowering by targeted alternative polyadenylation .Cell Research. 2015 Jun 23. doi: 10.1038/cr.2015.77 PMID: 26099751</li> </H3>
+
+			<H3><li>Wei L,* <strong>Gu L,*</strong> Song X*, Cui X, Lu Z, Zhou M, Wang L, Hu F, Zhai J, Meyer B, Cao X. (2014) Dicer-like 3 produces transposable element-associated 24-nt siRNAs that control agricultural traits in rice. Proc Natl Acad Sci U S A 111: 3877-3882.</li> </H3>
+<p></p>
+			<H3><li>Deng, X.,* <strong> Gu, L.,* </strong> Liu, C.*, Lu, T*., Lu, F., Lu, Z., Cui, P., Pei, Y., Wang, B., Hu, S., and Cao, X. (2010). Arginine methylation mediated by the Arabidopsis homolog of PRMT5 is essential for proper pre-mRNA splicing. Proc Natl Acad Sci U S A 107, 19114-19119.</li> </H3>
+<p></p>
+			<H3><li>Zhou, M.*,  <strong>Gu, L.*, </strong> Li, P., Song, X., Wei, L., Chen, Z. and Cao, X. (2010) Degradome sequencing reveals endogenous small RNA targets in rice (Oryza sativa L. ssp. indica). Front. Biol., 5, 67-90.</li> </H3>
+<p></p>
+                        <H3><li>Wu, B., Suo, F., Lei, W., and <strong>Gu, L †. </strong>  (2014). Comprehensive Analysis of Alternative Splicing in Digitalis purpurea by Strand-Specific RNA-Seq. PLoS One 9, e106001.</li></H3>
+<p></p>
+
+			<H3><li><strong>Gu, L., </strong> and Guo, R. (2007). Genome-wide detection and analysis of alternative splicing for nucleotide binding site-leucine
+-rich repeats sequences in rice. J Genet Genomics 34, 247-257.</li></H3>
+
+			<H3><li>Wang, L., Song, X., <strong>Gu, L.,</strong> Li, X., Cao, S., Chu, C., Cui, X., Chen, X., and Cao, X. (2013). NOT2 proteins promote polymerase II-dependent transcription and interact with multiple MicroRNA biogenesis factors in Arabidopsis. Plant Cell 25, 715-727.</li></H3>
+<p></p>
+			<H3><li>Cui X., Jin P., Cui X., <strong>Gu, L.,</strong> Lu Z., Xue Y., Wei L., Qi J., Song X., Luo M., Gynheung An, Cao X. (2013) Control of Transposon Activity by a Histone H3K4 Demethylase in Rice. Proc Natl Acad Sci U S A. 110(5):1953-1958.</li></H3>
+<p></p>
+			<H3><li>Zhang L., Cheng Z., Qin R., Qiu Y., Wang J., Cui X., <strong>Gu, L.,</strong> Zhang X., Guo X., Wang D., Jiang L., Wu C., Wang H., Cao X., Wan J. (2012). Identification and Characterization of an Epi-1 allele of OsFIE1 Reveals a Regulatory Linkage between two Epigenetic Marks in Rice. Plant Cell 24, 4407-4421.</li></H3>
+<p></p>
+			<H3><li>Zhou H., Zhou M., Yang Y., Li J., Zhu L., Jiang D., Dong J., Liu Q., <strong>Gu L.,</strong> Zhou L., … Cao X., Zhuang C. (2014). RNAase Zs1 processes UBL40 mRNA and controls thermo-sensitive genic male sterility in rice. NATURE COMMUNICATIONS. doi:10.1038/ncomms5884</li></H3>
+<p></p>
 
 
 
