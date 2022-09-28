@@ -26,10 +26,10 @@ Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysi
 Yubang Gao*, Xuqing Liu*, Bizhi Wu, Huihui Wang, Feihu Xi, Markus V. Kohnen, Anireddy S. N. Reddy, Lianfeng Gu#. (2021). Quantitative profiling of N6-methyladenosine at single-base resolution in stem-differentiating xylem of Populus trichocarpa using Nanopore direct RNA sequencing. _**Genome Biology**_
 [DOI:10.1186/s13059-020-02241-7](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02241-7)
 
-Zeyu Zhang*, Huihui Wang*, Yongsheng Wang*, Feihu Xi*, Huiyuan Wang, Markus V. Kohnen, Pengfei Gao, Wentao Wei, Kai Chen, Xuqing Liu, Yubang Gao, Ximei Han, Kaiqiang Hu, Hangxiao Zhang, Qiang Zhu, Yushan Zheng, Bo Liu, Ayaz Ahmad, Yau-Heiu Hsu, Steven E. Jacobsen#, **Lianfeng Gu#**. (2021). Whole genome characterization of chronological age-associated changes in methylome and circular RNAs in moso bamboo (Phyllostachys edulis) from vegetative to floral growth. _**Plant Journal** _
+Zeyu Zhang*, Huihui Wang*, Yongsheng Wang*, Feihu Xi*, Huiyuan Wang, Markus V. Kohnen, Pengfei Gao, Wentao Wei, Kai Chen, Xuqing Liu, Yubang Gao, Ximei Han, Kaiqiang Hu, Hangxiao Zhang, Qiang Zhu, Yushan Zheng, Bo Liu, Ayaz Ahmad, Yau-Heiu Hsu, Steven E. Jacobsen#, **Lianfeng Gu#**. (2021). Whole genome characterization of chronological age-associated changes in methylome and circular RNAs in moso bamboo (Phyllostachys edulis) from vegetative to floral growth. _**Plant Journal**_
 [DOI:10.1111/tpj.15174](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15174)
 
-Xuqing Liu*, Yubang Gao*, Jiakai Liao, Miao Miao, Kai Chen, Feihu Xi, Wentao Wei, Huihui Wang, Yongsheng Wang, Xi Xu, Anireddy S.N. Reddy, and **Lianfeng Gu*** . (2021). Genome-wide profiling of circular RNAs, alternative splicing, and R-loops in stem-differentiating xylem of Populus trichocarpa._**Journal of Integrative Plant Biology**_
+Xuqing Liu*, Yubang Gao*, Jiakai Liao, Miao Miao, Kai Chen, Feihu Xi, Wentao Wei, Huihui Wang, Yongsheng Wang, Xi Xu, Anireddy S.N. Reddy, and **Lianfeng Gu*** . (2021). Genome-wide profiling of circular RNAs, alternative splicing, and R-loops in stem-differentiating xylem of Populus trichocarpa. _**Journal of Integrative Plant Biology**_
 [DOI:10.1111/jipb.13081](https://doi.org/10.1111/jipb.13081)
 
 Xiaqin Wang, Xinyang Yan, Shubin Li, Yun Jing, **Lianfeng Gu**, Shuangquan Zou, Jin Zhang*, Bobin Liu*, (2021), Genome-wide identification, evolution and expression analysis of the aspartic protease gene family during rapid growth of moso bamboo (Phyllostachys edulis) shoots. _**BMC Genomics25**_
@@ -41,14 +41,12 @@ Jian Wang*, Bizhi Wu*, Markus V. Kohnen*, Daqi Lin,Changcai Yang,Xiaowei Wang,Ai
 Huiyuan Wang, Sheng Liu, Xiufang Dai, Yongkang Yang, Yunjun Luo,  Yubang Gao, Xuqing Liu, Wentao Wei, Huihui Wang, Xi Xu,  Anireddy S. Reddy,  Pankaj Jaiswal,  Wei Li,  Bo Liu* and  **Lianfeng Gu***(2021). PSDX: A comprehensive multi-omics association database of Populus trichocarpa with a focus on the secondary growth in response to stresses Front._**Plant Sci**_.
 [DOI:10.3389/fpls.2021.655565](https://www.frontiersin.org/articles/10.3389/fpls.2021.655565)
 
-
-Guihua Jin, Peng-Fei Ma, Xiaopei Wu, **Lianfeng Gu**, Manyuan Long#, Chengjun Zhang#, De-Zhu Li#. New Genes Interacted With Recent Whole-Genome Duplicates in the Fast Stem Growth of Bamboos. (2021) _**Molecular Biology and Evolution** _
+Guihua Jin, Peng-Fei Ma, Xiaopei Wu, **Lianfeng Gu**, Manyuan Long#, Chengjun Zhang#, De-Zhu Li#. New Genes Interacted With Recent Whole-Genome Duplicates in the Fast Stem Growth of Bamboos. (2021) _**Molecular Biology and Evolution**_
 [DOI:38(12):5752–5768](https://academic.oup.com/mbe/article/38/12/5752/6377341)
 
 
 Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zhu, Eliace Noory, Qin Wang#, and Chentao Lin#. "A photoregulatory mechanism of the circadian clock in Arabidopsis." _**Nature Plants**_ 7 pages1397–1408 (2021)
 [DOI:10.1038/s41477-021-01002-z](https://www.nature.com/articles/s41477-021-01002-z#citeas)
-
 
 **Gu L**., Zhang H., Gao J. (2021) Alternative Splicing and Alternative Polyadenylation in Moso Bamboo. In: Gao J. (eds). The Moso Bamboo Genome. Compendium of Plant Genomes. _**Springer**_
 [DOI:10.1007/978-3-030-80836-5_7](https://link.springer.com/chapter/10.1007/978-3-030-80836-5_7)
