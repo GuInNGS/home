@@ -144,42 +144,54 @@ Wang T*, Wang H*, Cai D*, Gao Y, Zhang H, Wang Y, Lin C, Ma L#, **Gu L#**, (2017
 Huang J, **Gu L**, Zhang Y, Yan T, Kong G, Kong L, Guo B, Qiu M, Wang Y, Jing M, Xing W, Ye W, Wu Z, Zhang Z, Zheng X, Gijzen M, Wang Y, Dong S(2017), An oomycete plant pathogen reprograms host pre-mRNA splicing to subvert immunity. _**Nature Communications**_.
 [DOI:10.1038/s41467-017-02233-5](https://www.nature.com/articles/s41467-017-02233-5#Sec10)
 
-
 Ma X, Liu C, **Gu L**, Mo B, Cao X, Chen X. (2017), TarHunter, a tool for predicting conserved microRNA targets and target mimics in plants. _**Bioinformatics**_.
 [DOI:10.1093/bioinformatics/btx797](https://academic.oup.com/bioinformatics/article/34/9/1574/4721784)
-
 
 Wang W*, **Gu L***, Ye S, Zhang H, Cai C, Xiang M, Gao Y, Wang Q, Lin C, Zhu Q#, (2017), Genome-wide analysis and transcriptomic profiling of the auxin biosynthesis, transport and signaling family genes in moso bamboo (Phyllostachys heterocycla). _**BMC Genomics**_. 2017 Nov 13;18(1):870
 [DOI:10.1186/s12864-017-4250-0](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4250-0)
 
-
 Wang K*, Jiao Z*, Xu M*, Wang Y, Li R, Cui X, **Gu L#**, Zhang S#. (2017), Landscape and Fruit Developmental Regulation of Alternative Splicing in Tomato by Genome-wide Analysis. _**Horticultural Plant Journal**_.
 [DOI:10.1016/j.hpj.2017.01.007](http://www.sciencedirect.com/science/article/pii/S2468014117300080)
 
+Wang, X., Wang, Q., Han, Y.J., Liu, Q., **Gu, L**., Yang, Z., Su, J., Liu, B., Zuo, Z., and He, W., Wang,J., Liu, B., Matsui, M., Kim,J., Oka, Y., Lin,C (2017). A CRY-BIC negative feedback circuitry regulating blue light sensitivity of Arabidopsis. _**The Plant Journal**_.
+[DOI:10.1111/tpj.13664](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13664/full)
 
-Wang, X., Wang, Q., Han, Y.J., Liu, Q., Gu, L., Yang, Z., Su, J., Liu, B., Zuo, Z., and He, W., Wang,J., Liu, B., Matsui, M., Kim,J., Oka, Y., Lin,C (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13664/full">A CRY-BIC negative feedback circuitry regulating blue light sensitivity of Arabidopsis. The Plant Journal. </a> </li></H3>
+Hansheng Zhao*, Shancen Zhao*, International Network for Bamboo and Rattan, Benhua Fei, Huan Liu, Huanming Yang, Honghai Dai, Dan Wang, Wei Jin, Feng Tang, Qiang Gao, Hang Xun, Yuwei Wang, Lianghua Qi, Xianghua Yue, Shuyan Lin, **Lianfeng Gu**, Lubin Li, Tiansheng Zhu, Qiang Wei, Zhen Su, Tarmeze Bin Wan Ariffin Wan, Daniel A. Ofori, George Mbeva Muthike, Yigardu Mulatu Mengesha, Roberto Magno de Castro e Silva, Antonio Ludovico Beraldo, Zhimin Gao#, Xin Liu#, Zehui Jiang#. Announcing the Genome Atlas of Bamboo and Rattan (GABR) project: promoting research in evolution and in economically and ecologically beneficial plants. _**Gigascience**_.
+[DOI:10.1093/gigascience/gix046 ](https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix046)
 
-                        <H3><li>Hansheng Zhao*, Shancen Zhao*, International Network for Bamboo and Rattan, Benhua Fei, Huan Liu, Huanming Yang, Honghai Dai, Dan Wang, Wei Jin, Feng Tang, Qiang Gao, Hang Xun, Yuwei Wang, Lianghua Qi, Xianghua Yue, Shuyan Lin, Lianfeng Gu, Lubin Li, Tiansheng Zhu, Qiang Wei, Zhen Su, Tarmeze Bin Wan Ariffin Wan, Daniel A. Ofori, George Mbeva Muthike, Yigardu Mulatu Mengesha, Roberto Magno de Castro e Silva, Antonio Ludovico Beraldo, Zhimin Gao#, Xin Liu#, Zehui Jiang#; <a href="https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix046">Announcing the Genome Atlas of Bamboo and Rattan (GABR) project: promoting research in evolution and in economically and ecologically beneficial plants.</a> Gigascience 2017 gix046. doi: 10.1093/gigascience/gix046 </a> </li> </H3>
-
-	<H3><li>Zhang, H., Lin, C. and <strong>Gu, L #.</strong> (2017), <a href="http://onlinelibrary.wiley.com/doi/10.1111/php.12680/abstract">Light Regulation of Alternative Pre-mRNA Splicing in Plants. Photochem Photobiol.</a> Photochem Photobiol. doi:10.1111/php.12680.</li> </H3>
+Zhang, H., Lin, C. and **Gu, L #**. (2017). Light Regulation of Alternative Pre-mRNA Splicing in Plants. _**Photochem Photobiol**_.
+[DOI:10.1111/php.12680.](http://onlinelibrary.wiley.com/doi/10.1111/php.12680/abstract)
 
 
 ### **Papers 2016(*first-author   †corresponding author)**
-			<H3><li>Wang Q*, Zuo Z*, Wang X*, Gu L, Yoshizumi T,Yang,Z H,Liu Q,Liu W,Han Y,Liu B, Wohlschlegel J A, Matsui M, Oka Y and Lin C.(2016)<a href="http://science.sciencemag.org/content/354/6310/343">  Photoactivation and inactivation mechanisms of Arabidopsis cryptochrome2.</a>  Science.Vol. 354, Issue 6310, pp. 343-347.DOI: 10.1126/science.aaf9030 </li> </H3>
 
-			<H3><li> Yan H, Zhang H, Wang Q, Jian H, Qiu X, Baudino S, Just J, Raymond O, <strong>Gu L,</strong> Jihua W, Bendahmane M and Tang K (2016).<a href="http://journal.frontiersin.org/article/10.3389/fpls.2016.00996/full"> The Rosa chinensis cv. Viridiflora phyllody phenotype is associated with misexpression of flower organ identity genes. </a>Front. Plant Sci. 7:996. doi: 10.3389/fpls.2016.00996 </li> </H3>
+Wang Q*, Zuo Z*, Wang X*,** Gu L**, Yoshizumi T,Yang,Z H,Liu Q,Liu W,Han Y,Liu B, Wohlschlegel J A, Matsui M, Oka Y and Lin C.(2016). Photoactivation and inactivation mechanisms of Arabidopsis cryptochrome2.  _**Science**_.Vol. 354, Issue 6310, pp.343-347.
+[DOI:10.1126/science.aaf9030](http://science.sciencemag.org/content/354/6310/343)
 
-			<H3><li> Li S, Zhang G, Zhang X, Yuan J, Deng C, <strong>Gu L†,</strong> Gao W†. <a href="http://database.oxfordjournals.org/content/2016/baw078.abstract?sid=bf8d7f97-177d-40b6-ab95-149898bbf618">DPTEdb, an integrative database of transposable elements in dioecious plants.</a> Database 2016: baw078 doi:10.1093/database/baw078 (†co-corresponding).</li> </H3>
+Yan H, Zhang H, Wang Q, Jian H, Qiu X, Baudino S, Just J, Raymond O, **Gu L**, Jihua W, Bendahmane M and Tang K (2016). The Rosa chinensis cv. Viridiflora phyllody phenotype is associated with misexpression of flower organ identity genes. _**Front. Plant Sci**_. 7:996.
+[DOI:10.3389/fpls.2016.00996](http://journal.frontiersin.org/article/10.3389/fpls.2016.00996/full)
 
-			<H3><li>Li C, <strong>Gu L, </strong>Gao L, Chen C, Wei C, Qiu Q, Chien C, Wang S, Jiang L, Chen C, Yang S, Nguyen V, Snyder M, Burlingame A, Kohalmi S, Huang S, Cao X, Wang Z, Wu K, Chen X, Cui Y.<a href="http://www.nature.com/ng/journal/v48/n6/full/ng.3555.html"> Concerted genomic targeting of histone H3 lysine 27 demethylase REF6 and chromatin-remodeling ATPase BRM in Arabidopsis.</a> Nature genetics. (2016). doi:10.1038/ng.3555</li> </H3>
+Li S, Zhang G, Zhang X, Yuan J, Deng C, **Gu L†**, Gao W†. DPTEdb, an integrative database of transposable elements in dioecious plants. _**Database**_ 2016
+[DOI:10.1093/database/baw078](http://database.oxfordjournals.org/content/2016/baw078.abstract?sid=bf8d7f97-177d-40b6-ab95-149898bbf618)
 
-			<H3><li>Cui X*, Lu F*, Qiu Q*, Zhou B*, Gu L, Zhang S, Kang Y, Cui X, Ma X, Yao Q, Ma J, Zhang X, Cao X.<a href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3556.html"> REF6 recognizes a specific DNA sequence to demethylate H3K27me3 and regulate organ boundary formation in Arabidopsis.</a> Nature genetics. (2016). doi:10.1038/ng.3556</li> </H3>
+Li C, **Gu L**, Gao L, Chen C, Wei C, Qiu Q, Chien C, Wang S, Jiang L, Chen C, Yang S, Nguyen V, Snyder M, Burlingame A, Kohalmi S, Huang S, Cao X, Wang Z, Wu K, Chen X, Cui Y. Concerted genomic targeting of histone H3 lysine 27 demethylase REF6 and chromatin-remodeling ATPase BRM in Arabidopsis. _**Nature genetics**_. (2016)
+[DOI:10.1038/ng.3555](https://www.nature.com/articles/ng.3555#citeas)
+
+
+Cui X*, Lu F*, Qiu Q*, Zhou B*, **Gu L**, Zhang S, Kang Y, Cui X, Ma X, Yao Q, Ma J, Zhang X, Cao X. REF6 recognizes a specific DNA sequence to demethylate H3K27me3 and regulate organ boundary formation in Arabidopsis. _**Nature genetics**_. (2016)
+[DOI:10.1038/ng.3556](https://www.nature.com/articles/ng.3556)
 	
-			<H3><li>Deng X*, Lu T*, Wang L*, Gu L, Sun J, Kong X, Liu C, Cao X. <a href="http://www.pnas.org/content/113/19/5447.long">Recruitment of the NineTeen Complex to the activated spliceosome requires AtPRMT5.</a>PNAS 2016, doi:10.1073/pnas.1522458113</li> </H3>
+	
+X*, Lu T*, Wang L*, **Gu L**, Sun J, Kong X, Liu C, Cao X. Recruitment of the NineTeen Complex to the activated spliceosome requires AtPRMT5. _**PNAS**_ 2016
+[DOI:10.1073/pnas.1522458113](http://www.pnas.org/content/113/19/5447.long)
 
-			<H3><li>Zhang S, Xu M, Qiu Z, Wang K, Du Y, Gu L†, Cui X†.<a href="http://www.nature.com/articles/srep23173"> Spatiotemporal transcriptome provides insights into early fruit development of Solanum lycopersicum,</a> Sci. Rep. 6, 23173; doi: 10.1038/srep23173 (2016). (†co-corresponding).</li> </H3>
 
-			<H3><li>Wu, Z*, Zhu D*, Lin X*, Miao L*,<strong> Gu L, </strong> Deng X, Yang Q, Sun K, Zhu D, Cao X, TSUGE T, Dean C, Aoyama T, Gu H, Qu L. <a href="http://www.plantcell.org/content/28/1/55.abstract">RNA-binding proteins At RZ-1B and At RZ-1C play a critical role in regulation of pre-mRNA splicing and gene expression during Arabidopsis development. </a>The Plant Cell (2016): TPC2015-00949..</li> </H3>
+Zhang S, Xu M, Qiu Z, Wang K, Du Y, **Gu L†**, Cui X†. Spatiotemporal transcriptome provides insights into early fruit development of Solanum lycopersicum, _**Scientific reports**_.
+[DOI:10.1038/srep23173](http://www.nature.com/articles/srep23173)
+
+Wu, Z*, Zhu D*, Lin X*, Miao L*, **Gu L**, Deng X, Yang Q, Sun K, Zhu D, Cao X, TSUGE T, Dean C, Aoyama T, Gu H, Qu L. RNA-binding proteins At RZ-1B and At RZ-1C play a critical role in regulation of pre-mRNA splicing and gene expression during Arabidopsis development. _**The Plant Cell**_ (2016): TPC2015-00949
+[DOI:10.1105/tpc.15.00949](https://academic.oup.com/plcell/article/28/1/55/6098209)
+
 
 ### **Papers before 2016**
 			<H3><li>Zhang Y.,*<strong> Gu, L.,* </strong>Hou, Y.*, Wang L., Deng, X., Hang, R.,Chen,D., Zhang,X., Zhang, Y., Liu, C., and Cao, X. 2015 Integrative genome-wide analysis reveals HLP1, a novel RNA-binding protein， regulates plant flowering by targeted alternative polyadenylation .Cell Research. 2015 Jun 23. doi: 10.1038/cr.2015.77 PMID: 26099751</li> </H3>
