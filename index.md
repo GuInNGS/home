@@ -84,27 +84,33 @@ Zhe Zhang, Xuelian Yang, Ling Cheng, Zejun Guo, Huiyuan Wang, Weihuang Wu, Kihye
 Wang HY*, Wang HH*, Zhang H*, Liu S, Wang Y, Gao Y, Xi F, Zhao L, Liu B, Reddy A, Lin C, **Gu L#**. (2019). The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species _**Bioinformatics**_
 [DOI:10.1093/bioinformatics/btz038](https://doi.org/10.1093/bioinformatics/btz038)
 
-
 Wang Y*, Gao Y*, Zhang H*, Wang H, Liu X, Xu X, Zhang Z, Kohnen M, Hu K, Wang H, Xi F, Zhao L, Lin C, **Gu L#**. (2019). Genome-wide profiling of circular RNAs in the rapidly growing shoots of moso bamboo (Phyllostachys edulis). _**Plant and Cell Physiology**_
 [DOI:10.1093/pcp/pcz043](https://academic.oup.com/pcp/advance-article-abstract/doi/10.1093/pcp/pcz043/5369732)
 
+Yu X, Wang Y, Kohnen M, Piao M, Tu M, Gao Y, Lin C, Zuo Z#, **Gu L#**. (2019). Large Scale Profiling of Protein Isoforms Using Label-Free Quantitative Proteomics Revealed the Regulation of Nonsense-Mediated Decay in Moso Bamboo (Phyllostachys edulis). _**Cells**_ 8(7), 744. Special Issue "Alternative Splicing: Recent Insights into Mechanisms and Functional Roles"
+[DOI:10.3390/cells8070744](https://www.mdpi.com/2073-4409/8/7/744)
 
-        <H3><li>Yu X, Wang Y, Kohnen M, Piao M, Tu M, Gao Y, Lin C, Zuo Z#, Gu L#. (2019). <a href="https://www.mdpi.com/2073-4409/8/7/744">Large Scale Profiling of Protein Isoforms Using Label-Free Quantitative Proteomics Revealed the Regulation of Nonsense-Mediated Decay in Moso Bamboo (Phyllostachys edulis) </a>. Cells. 8(7), 744;<a href="https://www.mdpi.com/journal/cells/special_issues/Alternative_Splicing">Special Issue "Alternative Splicing: Recent Insights into Mechanisms and Functional Roles"</a> https://doi.org/10.3390/cells8070744 <a href="http://forestry.fafu.edu.cn/pub/cells">supplemental website </a> </li></H3>
+Zhao L, Zhang H, Kohnen M, Prasad K, **Gu L#**, Reddy A#. (2019). Analysis of transcriptome and epitranscriptome in plants using PacBio Iso-Seq and Nanopore-based direct RNA sequencing _**Front. Genet**_. Research Topic: Transcript Profiling Using Single Molecule, Long-Read Sequencing Technologies.
+[DOI:10.3389/fgene.2019.00253](https://www.frontiersin.org/articles/10.3389/fgene.2019.00253/full)
 
-	<H3><li> Zhao L, Zhang H, Kohnen M, Prasad K, Gu L#, Reddy A#. (2019), <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00253/abstract">Analysis of transcriptome and epitranscriptome in plants using PacBio Iso-Seq and Nanopore-based direct RNA sequencing.</a> Front. Genet. doi: 10.3389/fgene.2019.00253<a href="https://www.frontiersin.org/research-topics/7925/transcript-profiling-using-single-molecule-long-read-sequencing-technologies#articles">Research Topic: Transcript Profiling Using Single Molecule, Long-Read Sequencing Technologies</a></li></H3>
+Wu B, Zhang H, Lin L, Wang H, Gao Y, Zhao L, Chen YP #, Chen R #, **Gu L#** (2019). A similarity searching system for biological phenotype images using deep convolutional encoder-decoder architecture. _**Current Bioinformatics**_
+[DOI:10.2174/1574893614666190204150109](http://www.eurekaselect.com/169619)
 
-	<H3><li> Wu B, Zhang H, Lin L, Wang H, Gao Y, Zhao L, Chen YP #, Chen R #, Gu L# (2019),<a href="http://www.eurekaselect.com/169619"> A similarity searching system for biological phenotype images using deep convolutional encoder-decoder architecture.</a> Current Bioinformatics, DOI : 10.2174/1574893614666190204150109 <a href="https://github.com/wubizhi/Phenotypic-images-retrieval-system">supplemental website </a> </li></H3></li></H3>
+Gao Y, Xi F, Zhang H, Liu X, Wang H, Zhao L, Reddy A, **Gu L #** (2019). Single-molecule real-time (SMRT) isoform sequencing (Iso-Seq) in plants: The status of the bioinformatics tools to unravel the transcriptome complexity. _**Current Bioinformatics**_
+[DOI:10.2174/1574893614666190204151746](https://www.ingentaconnect.com/content/ben/cbio/2019/00000014/00000007/art00004)
 
-	<H3><li> Gao Y, Xi F, Zhang H, Liu X, Wang H, Zhao L, Reddy A, Gu L # (2019),<a href="http://www.eurekaselect.com/169621"> Single-molecule real-time (SMRT) isoform sequencing (Iso-Seq) in plants: The status of the bioinformatics tools to unravel the transcriptome complexity,</a> Current Bioinformatics, DOI : 10.2174/1574893614666190204151746 <a href="http://www.bioinfor.org/bioinfor/tool/PRAPI/tools.php">supplemental website </a> </li></H3></li></H3>
+Clark S, Yu F, **Gu L**, Min X# (2019). Expanding alternative splicing identification by integrating multiple sources of transcription data in tomato. _**Front.Plant Sci**_. Research Topic: Alternative Splicing Regulation in Plants.
+[DOI:10.3389/fpls.2019.00689](https://www.frontiersin.org/articles/10.3389/fpls.2019.00689/full)
 
-	<H3><li> Clark S, Yu F, Gu L, Min X# (2019) <a href="https://www.frontiersin.org/articles/10.3389/fpls.2019.00689/abstract"> Expanding alternative splicing identification by integrating multiple sources of transcription data in tomato ,</a> Front. Plant Sci. | doi: 10.3389/fpls.2019.00689 <a href="https://www.frontiersin.org/research-topics/8930/alternative-splicing-regulation-in-plants#articles"> Research Topic: Alternative Splicing Regulation in Plants </a> </li></H3></li></H3> 
+Liu Xu, Gao Y, Zhao L, Cai Y, Wang H, Miao M, **Gu L#**, Zhang H# (2019). Biogenesis, research methods, and functions of circular RNAs. _**Hereditas**_. Vol. 41 Issue (6): 469-485
+[DOI:10.16288/j.yczz.19-061](http://www.chinagene.cn/CN/10.16288/j.yczz.19-061)
 
-       <H3><li> Liu Xu, Gao Y, Zhao L, Cai Y, Wang H, Miao M, Gu L#, Zhang H# (2019) <a href="http://www.chinagene.cn/CN/10.16288/j.yczz.19-061">Biogenesis, research methods, and functions of circular RNAs</a> Hereditas. Vol. 41 Issue (6): 469-485 </li></H3></li></H3>
+Yang Z, Chen L, Kohnen MV, Xiong B, Zhen X, Liao J, Oka Y, Zhu Q, **Gu L**, Lin C#, Liu B#. Identification and Characterization of the PEBP Family Genes in Moso Bamboo (Phyllostachys heterocycla). _**Scientific Reports**_ 2019 Oct 18;9(1):1-2 
+ [DOI:10.1038/s41598-019-51278-7](https://www.nature.com/articles/s41598-019-51278-7)
+ 
+Zhu, Danling, Fei Mao, Yuanchun Tian, Xiaoya Lin, **Lianfeng Gu**, Hongya Gu, Li-jia Qu, Yufeng Wu, and Zhe Wu. The features and regulation of co-transcriptional splicing in Arabidopsis. _**Molecular plant**_ (2019).
+[DOI:10.1016/j.molp.2019.11.004](https://www.sciencedirect.com/science/article/abs/pii/S1674205219303685)
 
-        <H3><li>Yang Z, Chen L, Kohnen MV, Xiong B, Zhen X, Liao J, Oka Y, Zhu Q, Gu L, Lin C#, Liu B#. <a href="https://www.nature.com/articles/s41598-019-51278-7">Identification and Characterization of the PEBP Family Genes in Moso Bamboo (Phyllostachys heterocycla). </a>Scientific Reports. 2019 Oct 18;9(1):1-2 </li></H3></li></H3>
-
-
-        <H3><li>Zhu, Danling, Fei Mao, Yuanchun Tian, Xiaoya Lin, Lianfeng Gu, Hongya Gu, Li-jia Qu, Yufeng Wu, and Zhe Wu.<a href="https://www.sciencedirect.com/science/article/abs/pii/S1674205219303685">The features and regulation of co-transcriptional splicing in Arabidopsis.</a> Molecular plant (2019).
 
 
 ### **Papers 2018 (*first-author   #corresponding author)**
