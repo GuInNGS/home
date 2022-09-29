@@ -4,7 +4,7 @@
 
 ## **Publicaiton**
 
-### **Paper 2022**
+### **Papers 2022**
 
 Yubang Gao, Xuqing Liu, Yandong Jin, Ji Wu, Shuang Li, Yaxing Li, Binqing Chen, Yaxin Zhang, Linxiao Wei, Wei Li, Ruili Li, Chentao Lin, Anireddy S N Reddy, Pankaj Jaiswal, **Lianfeng Gu**. (2022). Drought induces epitranscriptome and proteome changes in stem-differentiating xylem of Populus trichocarpa. _**Plant Physiology**_.
 [doi:10.1093/plphys/kiac272](https://academic.oup.com/plphys/article/190/1/459/6603714)
@@ -45,7 +45,6 @@ Huiyuan Wang, Sheng Liu, Xiufang Dai, Yongkang Yang, Yunjun Luo,  Yubang Gao, Xu
 Guihua Jin, Peng-Fei Ma, Xiaopei Wu, **Lianfeng Gu**, Manyuan Long#, Chengjun Zhang#, De-Zhu Li#. New Genes Interacted With Recent Whole-Genome Duplicates in the Fast Stem Growth of Bamboos. (2021) _**Molecular Biology and Evolution**_
 [DOI:38(12):5752–5768](https://academic.oup.com/mbe/article/38/12/5752/6377341)
 
-
 Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zhu, Eliace Noory, Qin Wang#, and Chentao Lin#. "A photoregulatory mechanism of the circadian clock in Arabidopsis." _**Nature Plants**_ 7 pages1397–1408 (2021)
 [DOI:10.1038/s41477-021-01002-z](https://www.nature.com/articles/s41477-021-01002-z#citeas)
 
@@ -54,25 +53,19 @@ Wang, Xu *, Bochen Jiang*, **Lianfeng Gu***, Yadi Chen, Manuel Mora, Mulangma Zh
 
 
 
-
-
 ### **Papers 2020 (*first-author #corresponding author)**
 
 Yongsheng*,Wang  Huihui Wang*, Feihu Xi, Huiyuan Wang,  Ximei Han,  Wentao Wei,  Hangxiao Zhang,  Qianyue Zhang,  Yushan Zheng,  Qiang Zhu,  Markus V. Kohnen,  Anireddy S. N. Reddy, **Lianfeng Gu #**. (2020). Profiling of circular RNA N6‐methyladenosine in moso bamboo (Phyllostachys edulis ) using nanopore‐based direct RNA sequencing. _**Journal of Integrative Plant Biology**_ 62(12), 1823-1838.
 [DOI:10.1111/jipb.13002](https://onlinelibrary.wiley.com/doi/abs/10.1111/jipb.13002)
 
-
 Reddy, A. S., Huang, J., Syed, N. H., Ben-Hur, A., Dong, S., **Gu, L**. (2020). Decoding co-/post-transcriptional complexities of plant transcriptomes and epitranscriptome using next-generation sequencing technologies. Biochemical Society Transactions, _**Biochemical Society Transactions**_
 [DOI:10.1042/BST20190492](https://portlandpress.com/biochemsoctrans/article-abstract/48/6/2399/226973/Decoding-co-post-transcriptional-complexities-of)
-
 
 Shanwen Ye,  Gang Chen,  Markus V. Kohnen,  Wenjia Wang,  Changyang Cai,  WenSha Ding,  Chu Wu, ** Lianfeng Gu**,  Yushan Zheng,  Xiangqing Ma,  Chentao Lin, Qiang Zhu# . Robust CRISPR/Cas9 mediated genome editing and its application in manipulating plant height in the first generation of hexaploid Ma bamboo (Dendrocalamus latiflorus Munro). _**Plant biotechnology journal**_
 [DOI:10.1111/pbi.13320](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13320)
 
-
 Jie Huang, Xinyu Lu, Hongwei Wu, Yuchen Xie, Qian Peng, **Lianfeng Gu**, Juyou Wu, Yuanchao Wang, Anireddy S.N.Reddy, Suomeng Dong#. Phytophthora Effectors Modulate Genome-wide Alternative Splicing of Host mRNAs to Reprogram Plant Immunity. _**Molecular Plant**_
 [DOI:10.1016/j.molp.2020.07.007](https://www.sciencedirect.com/science/article/abs/pii/S1674205220302203)
-
 
 Zhe Zhang, Xuelian Yang, Ling Cheng, Zejun Guo, Huiyuan Wang, Weihuang Wu, Kihye Shin, Jinyao Zhu, Xiaoli Zheng, Jianghu Bian, Yangchen Li,**Lianfeng Gu**, Qiang Zhu, Zhi-Yong Wang & Wenfei Wang #. Physiological and transcriptomic analyses of brassinosteroid function in moso bamboo (Phyllostachys edulis) seedlings. _**Planta**_, 252(2), 1-13.
 [DOI:10.1007/s00425-020-03432-z](https://link.springer.com/article/10.1007/s00425-020-03432-z)
@@ -177,14 +170,11 @@ Li S, Zhang G, Zhang X, Yuan J, Deng C, **Gu L†**, Gao W†. DPTEdb, an integr
 Li C, **Gu L**, Gao L, Chen C, Wei C, Qiu Q, Chien C, Wang S, Jiang L, Chen C, Yang S, Nguyen V, Snyder M, Burlingame A, Kohalmi S, Huang S, Cao X, Wang Z, Wu K, Chen X, Cui Y. Concerted genomic targeting of histone H3 lysine 27 demethylase REF6 and chromatin-remodeling ATPase BRM in Arabidopsis. _**Nature genetics**_. (2016)
 [DOI:10.1038/ng.3555](https://www.nature.com/articles/ng.3555#citeas)
 
-
 Cui X*, Lu F*, Qiu Q*, Zhou B*, **Gu L**, Zhang S, Kang Y, Cui X, Ma X, Yao Q, Ma J, Zhang X, Cao X. REF6 recognizes a specific DNA sequence to demethylate H3K27me3 and regulate organ boundary formation in Arabidopsis. _**Nature genetics**_. (2016)
 [DOI:10.1038/ng.3556](https://www.nature.com/articles/ng.3556)
-	
-	
+		
 X*, Lu T*, Wang L*, **Gu L**, Sun J, Kong X, Liu C, Cao X. Recruitment of the NineTeen Complex to the activated spliceosome requires AtPRMT5. _**PNAS**_ 2016
 [DOI:10.1073/pnas.1522458113](http://www.pnas.org/content/113/19/5447.long)
-
 
 Zhang S, Xu M, Qiu Z, Wang K, Du Y, **Gu L†**, Cui X†. Spatiotemporal transcriptome provides insights into early fruit development of Solanum lycopersicum, _**Scientific reports**_.
 [DOI:10.1038/srep23173](http://www.nature.com/articles/srep23173)
@@ -205,31 +195,26 @@ Wei L,* **Gu L,*** Song X*, Cui X, Lu Z, Zhou M, Wang L, Hu F, Zhai J, Meyer B, 
 Deng, X.,*  **Gu, L***., Liu, C.*, Lu, T*., Lu, F., Lu, Z., Cui, P., Pei, Y., Wang, B., Hu, S., and Cao, X. (2010). Arginine methylation mediated by the Arabidopsis homolog of PRMT5 is essential for proper pre-mRNA splicing. _**Proceedings of the National Academy of Sciences**_
 [DOI:10.1073/pnas.1009669107](https://www.pnas.org/doi/abs/10.1073/pnas.1009669107)
 
-
 Zhou, M.*, **Gu, L***.,  Li, P., Song, X., Wei, L., Chen, Z. and Cao, X. (2010) Degradome sequencing reveals endogenous small RNA targets in rice (Oryza sativa L. ssp. indica). _**Frontiers in biology**_
 [DOI:10.1007/s11515-010-0007-8](https://link.springer.com/article/10.1007/s11515-010-0007-8)
-
 
 Wu, B., Suo, F., Lei, W., and **Gu, L †**.   (2014). Comprehensive Analysis of Alternative Splicing in Digitalis purpurea by Strand-Specific RNA-Seq. **PLoS One** 9, e106001.
 [DOI:10.1371/journal.pone.0106001](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106001)
 
+**Gu, L.**,  and Guo, R. (2007). Genome-wide detection and analysis of alternative splicing for nucleotide binding site-leucine-rich repeats sequences in rice. _**Journal of Genetics and Genomics**_ 34, 247-257.</li></H3>
+[DOI:10.1016/S1673-8527(07)60026-5](https://www.sciencedirect.com/science/article/pii/S1673852707600265)
 
+Wang, L., Song, X., **Gu, L**., Li, X., Cao, S., Chu, C., Cui, X., Chen, X., and Cao, X. (2013). NOT2 proteins promote polymerase II-dependent transcription and interact with multiple MicroRNA biogenesis factors in Arabidopsis. _**Plant Cell**_ 25, 715-727.
+[DOI:10.1105/tpc.112.105882](https://academic.oup.com/plcell/article/25/2/715/6096571)
 
-<strong>Gu, L., </strong> and Guo, R. (2007). Genome-wide detection and analysis of alternative splicing for nucleotide binding site-leucine
--rich repeats sequences in rice. J Genet Genomics 34, 247-257.</li></H3>
+Cui X., Jin P., Cui X., **Gu, L**., Lu Z., Xue Y., Wei L., Qi J., Song X., Luo M., Gynheung An, Cao X. (2013) Control of Transposon Activity by a Histone H3K4 Demethylase in Rice. _**Proceedings of the National Academy of Sciences**_. 110(5):1953-1958.
+[DOI:10.1073/pnas.1217020110](https://www.pnas.org/doi/abs/10.1073/pnas.1217020110)
 
+Zhang L., Cheng Z., Qin R., Qiu Y., Wang J., Cui X., **Gu, L**., Zhang X., Guo X., Wang D., Jiang L., Wu C., Wang H., Cao X., Wan J. (2012).Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice. _**Plant Cell**_ 24, 4407-4421.
+[DOI:10.1105/tpc.112.102269](https://academic.oup.com/plcell/article/24/11/4407/6098115)
 
-
-Wang, L., Song, X., <strong>Gu, L.,</strong> Li, X., Cao, S., Chu, C., Cui, X., Chen, X., and Cao, X. (2013). NOT2 proteins promote polymerase II-dependent transcription and interact with multiple MicroRNA biogenesis factors in Arabidopsis. Plant Cell 25, 715-727.</li></H3>
-<p></p>
-			<H3><li>Cui X., Jin P., Cui X., <strong>Gu, L.,</strong> Lu Z., Xue Y., Wei L., Qi J., Song X., Luo M., Gynheung An, Cao X. (2013) Control of Transposon Activity by a Histone H3K4 Demethylase in Rice. Proc Natl Acad Sci U S A. 110(5):1953-1958.</li></H3>
-<p></p>
-			<H3><li>Zhang L., Cheng Z., Qin R., Qiu Y., Wang J., Cui X., <strong>Gu, L.,</strong> Zhang X., Guo X., Wang D., Jiang L., Wu C., Wang H., Cao X., Wan J. (2012). Identification and Characterization of an Epi-1 allele of OsFIE1 Reveals a Regulatory Linkage between two Epigenetic Marks in Rice. Plant Cell 24, 4407-4421.</li></H3>
-<p></p>
-			<H3><li>Zhou H., Zhou M., Yang Y., Li J., Zhu L., Jiang D., Dong J., Liu Q., <strong>Gu L.,</strong> Zhou L., … Cao X., Zhuang C. (2014). RNAase Zs1 processes UBL40 mRNA and controls thermo-sensitive genic male sterility in rice. NATURE COMMUNICATIONS. doi:10.1038/ncomms5884</li></H3>
-<p></p>
-
-
+Zhou H., Zhou M., Yang Y., Li J., Zhu L., Jiang D., Dong J., Liu Q., **Gu L**., Zhou L., … Cao X., Zhuang C. (2014). RNAase Zs1 processes UBL40 mRNA and controls thermo-sensitive genic male sterility in rice. _**NATURE COMMUNICATIONS**_.
+[DOI:10.1038/ncomms5884](https://www.nature.com/articles/ncomms5884)
 
 
 
