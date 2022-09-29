@@ -6,18 +6,18 @@
 
 ### **Papers 2022**
 
-Yubang Gao, Xuqing Liu, Yandong Jin, Ji Wu, Shuang Li, Yaxing Li, Binqing Chen, Yaxin Zhang, Linxiao Wei, Wei Li, Ruili Li, Chentao Lin, Anireddy S N Reddy, Pankaj Jaiswal, **Lianfeng Gu**. (2022). Drought induces epitranscriptome and proteome changes in stem-differentiating xylem of Populus trichocarpa. _**Plant Physiology**_.
-[DOI:10.1093/plphys/kiac272](https://academic.oup.com/plphys/article/190/1/459/6603714) [supplemental website](http://forestry.fafu.edu.cn/db/Ptr_Drought/jbrowse.html)
+Yubang Gao, Xuqing Liu, Yandong Jin, Ji Wu, Shuang Li, Yaxing Li, Binqing Chen, Yaxin Zhang, Linxiao Wei, Wei Li, Ruili Li, Chentao Lin, Anireddy S N Reddy, Pankaj Jaiswal, **Lianfeng Gu**. (2022). Drought induces epitranscriptome and proteome changes in stem-differentiating xylem of Populus trichocarpa. _**Plant Physiology**_. [supplemental website](http://forestry.fafu.edu.cn/db/Ptr_Drought/jbrowse.html)
+[DOI:10.1093/plphys/kiac272](https://academic.oup.com/plphys/article/190/1/459/6603714) 
 
-Yushan Zheng, Deming Yang, Jundong Rong, Liguang Chen, Qiang Zhu, Tianyou He, Lingyan Chen, Jing Ye, Lili Fan, Yubang Gao, Hangxiao Zhang, **Lianfeng Gu**. (2022). Allele-aware chromosome-scale assembly of the allopolyploid genome of hexaploid Ma Bamboo (Dendrocalamus latiflorus Munro). _**J Integr Plant Biol.**_
+Yushan Zheng, Deming Yang, Jundong Rong, Liguang Chen, Qiang Zhu, Tianyou He, Lingyan Chen, Jing Ye, Lili Fan, Yubang Gao, Hangxiao Zhang, **Lianfeng Gu**. (2022). Allele-aware chromosome-scale assembly of the allopolyploid genome of hexaploid Ma Bamboo (Dendrocalamus latiflorus Munro). _**J Integr Plant Biol.**_ [supplemental website](http://forestry.fafu.edu.cn/pub/Dla/)
 [DOI: 10.1111/jipb.13217](https://onlinelibrary.wiley.com/doi/abs/10.1111/jipb.13217)
 
-Zekun Zhang, Huiyuan Wang, Ji Wu, Yandong Jin, Shengwu Xiao, Tao Li, Xuqinq Liu,Hangxiao Zhang, Zeyu Zhang, Jun Su, Jingzao Liu, Xiaoyan Wang, Yubang Gao, Xiangqing Ma and **Lianfeng Gu**. (2022). Comprehensive Transcriptome Analysis of Stem-Differentiating Xylem Upon Compression Stress in Cunninghamia Lanceolata. **_Frontiers in genetics 13_**
+Zekun Zhang, Huiyuan Wang, Ji Wu, Yandong Jin, Shengwu Xiao, Tao Li, Xuqinq Liu,Hangxiao Zhang, Zeyu Zhang, Jun Su, Jingzao Liu, Xiaoyan Wang, Yubang Gao, Xiangqing Ma and **Lianfeng Gu**. (2022). Comprehensive Transcriptome Analysis of Stem-Differentiating Xylem Upon Compression Stress in Cunninghamia Lanceolata. **_Frontiers in genetics 13_** [supplemental tool](https://github.com/GuInNGS/Cula-transcriptome-analysis-without-REF)
 [DOI:10.3389/fgene.2022.843269](https://www.frontiersin.org/articles/10.3389/fgene.2022.843269/full)
 
 Yaxing Zhang, Jun Zhang, Deming Yang, Yandong Jin, Xuqing Liu, Zeyu Zhang, **Lianfeng Gu**, Hangxiao Zhang. (2022). Genome-wide identification of NAP1 and function analysis in moso bamboo (Phyllostachys edulis) _**International Journal of Molecular Sciences**_. Accept
 
-Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysis Pipeline for Identification of RNA Modification, Alternative Splicing and Polyadenylation Using Third Generation Sequencing. _**Bio-101: e4433.**_
+Liufu, Y., Liu, X., Wu, L., Zhang, H., Gao, Y. and **Gu, L**. (2022). An Analysis Pipeline for Identification of RNA Modification, Alternative Splicing and Polyadenylation Using Third Generation Sequencing. _**Bio-101: e4433.**_ [supplemental tool](https://github.com/GuInNGS/NanoPrap)
 [DOI:10.21769/BioProtoc.4433.](https://doi.org/10.21769/BioProtoc.4433)
 
 
@@ -74,22 +74,22 @@ Zhe Zhang, Xuelian Yang, Ling Cheng, Zejun Guo, Huiyuan Wang, Weihuang Wu, Kihye
 
 ### **Papers 2019 (*first-author #corresponding author)**
 
-Wang HY*, Wang HH*, Zhang H*, Liu S, Wang Y, Gao Y, Xi F, Zhao L, Liu B, Reddy A, Lin C, **Gu L#**. (2019). The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species _**Bioinformatics**_
+Wang HY*, Wang HH*, Zhang H*, Liu S, Wang Y, Gao Y, Xi F, Zhao L, Liu B, Reddy A, Lin C, **Gu L#**. (2019). The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species _**Bioinformatics**_ [supplemental website](http://forestry.fafu.edu.cn/bioinfor/db/ASmiR/)
 [DOI:10.1093/bioinformatics/btz038](https://doi.org/10.1093/bioinformatics/btz038)
 
-Wang Y*, Gao Y*, Zhang H*, Wang H, Liu X, Xu X, Zhang Z, Kohnen M, Hu K, Wang H, Xi F, Zhao L, Lin C, **Gu L#**. (2019). Genome-wide profiling of circular RNAs in the rapidly growing shoots of moso bamboo (Phyllostachys edulis). _**Plant and Cell Physiology**_
+Wang Y*, Gao Y*, Zhang H*, Wang H, Liu X, Xu X, Zhang Z, Kohnen M, Hu K, Wang H, Xi F, Zhao L, Lin C, **Gu L#**. (2019). Genome-wide profiling of circular RNAs in the rapidly growing shoots of moso bamboo (Phyllostachys edulis). _**Plant and Cell Physiology**_ [supplemental website](http://forestry.fafu.edu.cn/db/PhePacBio/Circular.php)
 [DOI:10.1093/pcp/pcz043](https://academic.oup.com/pcp/advance-article-abstract/doi/10.1093/pcp/pcz043/5369732)
 
-Yu X, Wang Y, Kohnen M, Piao M, Tu M, Gao Y, Lin C, Zuo Z#, **Gu L#**. (2019). Large Scale Profiling of Protein Isoforms Using Label-Free Quantitative Proteomics Revealed the Regulation of Nonsense-Mediated Decay in Moso Bamboo (Phyllostachys edulis). _**Cells**_ 8(7), 744. Special Issue "Alternative Splicing: Recent Insights into Mechanisms and Functional Roles"
+Yu X, Wang Y, Kohnen M, Piao M, Tu M, Gao Y, Lin C, Zuo Z#, **Gu L#**. (2019). Large Scale Profiling of Protein Isoforms Using Label-Free Quantitative Proteomics Revealed the Regulation of Nonsense-Mediated Decay in Moso Bamboo (Phyllostachys edulis). _**Cells**_ 8(7), 744. Special Issue "Alternative Splicing: Recent Insights into Mechanisms and Functional Roles" [supplemental website](http://forestry.fafu.edu.cn/pub/cells)
 [DOI:10.3390/cells8070744](https://www.mdpi.com/2073-4409/8/7/744)
 
 Zhao L, Zhang H, Kohnen M, Prasad K, **Gu L#**, Reddy A#. (2019). Analysis of transcriptome and epitranscriptome in plants using PacBio Iso-Seq and Nanopore-based direct RNA sequencing _**Front. Genet**_. Research Topic: Transcript Profiling Using Single Molecule, Long-Read Sequencing Technologies.
 [DOI:10.3389/fgene.2019.00253](https://www.frontiersin.org/articles/10.3389/fgene.2019.00253/full)
 
-Wu B, Zhang H, Lin L, Wang H, Gao Y, Zhao L, Chen YP #, Chen R #, **Gu L#** (2019). A similarity searching system for biological phenotype images using deep convolutional encoder-decoder architecture. _**Current Bioinformatics**_
+Wu B, Zhang H, Lin L, Wang H, Gao Y, Zhao L, Chen YP #, Chen R #, **Gu L#** (2019). A similarity searching system for biological phenotype images using deep convolutional encoder-decoder architecture. _**Current Bioinformatics**_ [supplemental website](https://github.com/wubizhi/Phenotypic-images-retrieval-system)
 [DOI:10.2174/1574893614666190204150109](http://www.eurekaselect.com/169619)
 
-Gao Y, Xi F, Zhang H, Liu X, Wang H, Zhao L, Reddy A, **Gu L #** (2019). Single-molecule real-time (SMRT) isoform sequencing (Iso-Seq) in plants: The status of the bioinformatics tools to unravel the transcriptome complexity. _**Current Bioinformatics**_
+Gao Y, Xi F, Zhang H, Liu X, Wang H, Zhao L, Reddy A, **Gu L #** (2019). Single-molecule real-time (SMRT) isoform sequencing (Iso-Seq) in plants: The status of the bioinformatics tools to unravel the transcriptome complexity. _**Current Bioinformatics**_ [supplemental tools](http://www.bioinfor.org/bioinfor/tool/PRAPI/tools.php)
 [DOI:10.2174/1574893614666190204151746](https://www.ingentaconnect.com/content/ben/cbio/2019/00000014/00000007/art00004)
 
 Clark S, Yu F, **Gu L**, Min X# (2019). Expanding alternative splicing identification by integrating multiple sources of transcription data in tomato. _**Front.Plant Sci**_. Research Topic: Alternative Splicing Regulation in Plants.
@@ -108,13 +108,13 @@ Zhu, Danling, Fei Mao, Yuanchun Tian, Xiaoya Lin, **Lianfeng Gu**, Hongya Gu, Li
 
 ### **Papers 2018 (*first-author   #corresponding author)**
 
-Ye G*, Zhang H*, Chen B, Nie S, Liu H, Gao W, Wang H, Gao Y, **Gu L#**. De novo genome assembly of the stress tolerant forest species Casuarina equisetifolia provides insight into secondary growth (2018). _**Plant Journal**_.
+Ye G*, Zhang H*, Chen B, Nie S, Liu H, Gao W, Wang H, Gao Y, **Gu L#**. De novo genome assembly of the stress tolerant forest species Casuarina equisetifolia provides insight into secondary growth (2018). _**Plant Journal**_. [supplemental website](http://forestry.fafu.edu.cn/db/Casuarinaceae)
 [DOI:/10.1111/tpj.14159](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.1415)
 
-Gao Y, Wang H, Zhang H, Wang Y, Chen J, **Gu L#**, (2018), PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq. _**Bioinformatics**_
+Gao Y, Wang H, Zhang H, Wang Y, Chen J, **Gu L#**, (2018), PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq. _**Bioinformatics**_ [supplemental tools](http://www.bioinfor.org/bioinfor/tool/PRAPI)
 [DOI:10.1093/bioinformatics/btx83](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx830/4769502)
 
-Zhang H*, Wang H*, Zhu Q*, Gao Y, Wang H, Zhao L, Wang Y, Xi F, Wang W, Yang Y, Lin C, **Gu L#** (2018), Transcriptome characterization of moso bamboo (Phyllostachys edulis) seedlings in response to exogenous gibberellin applications, _**BMC plant biology**_, 2018,18:125
+Zhang H*, Wang H*, Zhu Q*, Gao Y, Wang H, Zhao L, Wang Y, Xi F, Wang W, Yang Y, Lin C, **Gu L#** (2018), Transcriptome characterization of moso bamboo (Phyllostachys edulis) seedlings in response to exogenous gibberellin applications, _**BMC plant biology**_, 2018,18:125 [supplemental website](http://forestry.fafu.edu.cn/db/PhePacBio/GA.php)
 [DOI:10.1186/s12870-018-1336-z](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1336-z)
 
 Wang Q, Zuo Z, Wang X, Liu Q, **Gu L**, Oka Y, Lin C (2018), Beyond the photocycle – how cryptochromes regulate photoresponses in plants?, _**Current Option in Plant Biology**_, 45, 120-126.
@@ -130,7 +130,7 @@ Liu B., Zhang J., Yang Z., Matsui A., Li S., Yan X., Kohnena M., **Gu L**., Pras
 
 ### **Papers 2017 (*first-author   #corresponding author)**
 
-Wang T*, Wang H*, Cai D*, Gao Y, Zhang H, Wang Y, Lin C, Ma L#, **Gu L#**, (2017), Comprehensive profiling of rhizome-associated alternative splicing and alternative polyadenylation in moso bamboo (Phyllostachys edulis). _**The Plant Journal**_. 2017;91(4):684-99.
+Wang T*, Wang H*, Cai D*, Gao Y, Zhang H, Wang Y, Lin C, Ma L#, **Gu L#**, (2017), Comprehensive profiling of rhizome-associated alternative splicing and alternative polyadenylation in moso bamboo (Phyllostachys edulis). _**The Plant Journal**_. 2017;91(4):684-99. [supplemental website](http://forestry.fafu.edu.cn/db/PhePacBio/)
 [DOI:10.1111/tpj.13597](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13597/ful)
 
 
@@ -143,7 +143,7 @@ Ma X, Liu C, **Gu L**, Mo B, Cao X, Chen X. (2017), TarHunter, a tool for predic
 Wang W*, **Gu L***, Ye S, Zhang H, Cai C, Xiang M, Gao Y, Wang Q, Lin C, Zhu Q#, (2017), Genome-wide analysis and transcriptomic profiling of the auxin biosynthesis, transport and signaling family genes in moso bamboo (Phyllostachys heterocycla). _**BMC Genomics**_. 2017 Nov 13;18(1):870
 [DOI:10.1186/s12864-017-4250-0](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4250-0)
 
-Wang K*, Jiao Z*, Xu M*, Wang Y, Li R, Cui X, **Gu L#**, Zhang S#. (2017), Landscape and Fruit Developmental Regulation of Alternative Splicing in Tomato by Genome-wide Analysis. _**Horticultural Plant Journal**_.
+Wang K*, Jiao Z*, Xu M*, Wang Y, Li R, Cui X, **Gu L#**, Zhang S#. (2017), Landscape and Fruit Developmental Regulation of Alternative Splicing in Tomato by Genome-wide Analysis. _**Horticultural Plant Journal**_. [supplemental website](http://forestry.fafu.edu.cn/bioinfor/db/ASmiR/gb/sly/Jbnest.php)
 [DOI:10.1016/j.hpj.2017.01.007](http://www.sciencedirect.com/science/article/pii/S2468014117300080)
 
 Wang, X., Wang, Q., Han, Y.J., Liu, Q., **Gu, L**., Yang, Z., Su, J., Liu, B., Zuo, Z., and He, W., Wang,J., Liu, B., Matsui, M., Kim,J., Oka, Y., Lin,C (2017). A CRY-BIC negative feedback circuitry regulating blue light sensitivity of Arabidopsis. _**The Plant Journal**_.
