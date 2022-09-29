@@ -193,22 +193,34 @@ Wu, Z*, Zhu D*, Lin X*, Miao L*, **Gu L**, Deng X, Yang Q, Sun K, Zhu D, Cao X, 
 [DOI:10.1105/tpc.15.00949](https://academic.oup.com/plcell/article/28/1/55/6098209)
 
 
+
 ### **Papers before 2016**
-			<H3><li>Zhang Y.,*<strong> Gu, L.,* </strong>Hou, Y.*, Wang L., Deng, X., Hang, R.,Chen,D., Zhang,X., Zhang, Y., Liu, C., and Cao, X. 2015 Integrative genome-wide analysis reveals HLP1, a novel RNA-binding protein， regulates plant flowering by targeted alternative polyadenylation .Cell Research. 2015 Jun 23. doi: 10.1038/cr.2015.77 PMID: 26099751</li> </H3>
 
-			<H3><li>Wei L,* <strong>Gu L,*</strong> Song X*, Cui X, Lu Z, Zhou M, Wang L, Hu F, Zhai J, Meyer B, Cao X. (2014) Dicer-like 3 produces transposable element-associated 24-nt siRNAs that control agricultural traits in rice. Proc Natl Acad Sci U S A 111: 3877-3882.</li> </H3>
-<p></p>
-			<H3><li>Deng, X.,* <strong> Gu, L.,* </strong> Liu, C.*, Lu, T*., Lu, F., Lu, Z., Cui, P., Pei, Y., Wang, B., Hu, S., and Cao, X. (2010). Arginine methylation mediated by the Arabidopsis homolog of PRMT5 is essential for proper pre-mRNA splicing. Proc Natl Acad Sci U S A 107, 19114-19119.</li> </H3>
-<p></p>
-			<H3><li>Zhou, M.*,  <strong>Gu, L.*, </strong> Li, P., Song, X., Wei, L., Chen, Z. and Cao, X. (2010) Degradome sequencing reveals endogenous small RNA targets in rice (Oryza sativa L. ssp. indica). Front. Biol., 5, 67-90.</li> </H3>
-<p></p>
-                        <H3><li>Wu, B., Suo, F., Lei, W., and <strong>Gu, L †. </strong>  (2014). Comprehensive Analysis of Alternative Splicing in Digitalis purpurea by Strand-Specific RNA-Seq. PLoS One 9, e106001.</li></H3>
-<p></p>
+Zhang Y., **Gu, L***., Hou, Y.*, Wang L., Deng, X., Hang, R.,Chen,D., Zhang,X., Zhang, Y., Liu, C., and Cao, X. 2015 Integrative genome-wide analysis reveals HLP1, a novel RNA-binding protein， regulates plant flowering by targeted alternative polyadenylation. _**Cell Research**_. 2015 Jun 23. 
+[DOI:10.1038/cr.2015.77](https://www.nature.com/articles/cr201577#citeas)
 
-			<H3><li><strong>Gu, L., </strong> and Guo, R. (2007). Genome-wide detection and analysis of alternative splicing for nucleotide binding site-leucine
+Wei L,* **Gu L,*** Song X*, Cui X, Lu Z, Zhou M, Wang L, Hu F, Zhai J, Meyer B, Cao X. (2014) Dicer-like 3 produces transposable element-associated 24-nt siRNAs that control agricultural traits in rice. _**Proceedings of the National Academy of Sciences**_  111: 3877-3882.
+[DOI:10.1073/pnas.1318131111](https://www.pnas.org/doi/abs/10.1073/pnas.1318131111)
+
+Deng, X.,*  **Gu, L***., Liu, C.*, Lu, T*., Lu, F., Lu, Z., Cui, P., Pei, Y., Wang, B., Hu, S., and Cao, X. (2010). Arginine methylation mediated by the Arabidopsis homolog of PRMT5 is essential for proper pre-mRNA splicing. _**Proceedings of the National Academy of Sciences**_
+[DOI:10.1073/pnas.1009669107](https://www.pnas.org/doi/abs/10.1073/pnas.1009669107)
+
+
+Zhou, M.*, **Gu, L***.,  Li, P., Song, X., Wei, L., Chen, Z. and Cao, X. (2010) Degradome sequencing reveals endogenous small RNA targets in rice (Oryza sativa L. ssp. indica). _**Frontiers in biology**_
+[DOI:10.1007/s11515-010-0007-8](https://link.springer.com/article/10.1007/s11515-010-0007-8)
+
+
+Wu, B., Suo, F., Lei, W., and **Gu, L †**.   (2014). Comprehensive Analysis of Alternative Splicing in Digitalis purpurea by Strand-Specific RNA-Seq. **PLoS One** 9, e106001.
+[DOI:10.1371/journal.pone.0106001](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106001)
+
+
+
+<strong>Gu, L., </strong> and Guo, R. (2007). Genome-wide detection and analysis of alternative splicing for nucleotide binding site-leucine
 -rich repeats sequences in rice. J Genet Genomics 34, 247-257.</li></H3>
 
-			<H3><li>Wang, L., Song, X., <strong>Gu, L.,</strong> Li, X., Cao, S., Chu, C., Cui, X., Chen, X., and Cao, X. (2013). NOT2 proteins promote polymerase II-dependent transcription and interact with multiple MicroRNA biogenesis factors in Arabidopsis. Plant Cell 25, 715-727.</li></H3>
+
+
+Wang, L., Song, X., <strong>Gu, L.,</strong> Li, X., Cao, S., Chu, C., Cui, X., Chen, X., and Cao, X. (2013). NOT2 proteins promote polymerase II-dependent transcription and interact with multiple MicroRNA biogenesis factors in Arabidopsis. Plant Cell 25, 715-727.</li></H3>
 <p></p>
 			<H3><li>Cui X., Jin P., Cui X., <strong>Gu, L.,</strong> Lu Z., Xue Y., Wei L., Qi J., Song X., Luo M., Gynheung An, Cao X. (2013) Control of Transposon Activity by a Histone H3K4 Demethylase in Rice. Proc Natl Acad Sci U S A. 110(5):1953-1958.</li></H3>
 <p></p>
