@@ -6,6 +6,10 @@
 
 ### **Papers 2022**
 
+<H3><li>Yubang Gao, Xuqing Liu, Yandong Jin, Ji Wu, Shuang Li, Yaxing Li, Binqing Chen, Yaxin Zhang, Linxiao Wei, Wei Li, Ruili Li, Chentao Lin, Anireddy S N Reddy, Pankaj Jaiswal, Lianfeng Gu. (2022). <a href="https://academic.oup.com/plphys/advance-article-abstract/doi/10.1093/plphys/kiac272/6603714?redirectedFrom=fulltext"> Drought induces epitranscriptome and proteome changes in stem-differentiating xylem of Populus trichocarpa.</a> Plant Physiology, kiac272, https://doi.org/10.1093/plphys/kiac272 <a href="http://forestry.fafu.edu.cn/db/Ptr_Drought/jbrowse.html">supplemental website</a> </li></H3>
+
+
+
 Yubang Gao, Xuqing Liu, Yandong Jin, Ji Wu, Shuang Li, Yaxing Li, Binqing Chen, Yaxin Zhang, Linxiao Wei, Wei Li, Ruili Li, Chentao Lin, Anireddy S N Reddy, Pankaj Jaiswal, **Lianfeng Gu**. (2022). Drought induces epitranscriptome and proteome changes in stem-differentiating xylem of Populus trichocarpa. _**Plant Physiology**_.
 [DOI:10.1093/plphys/kiac272](https://academic.oup.com/plphys/article/190/1/459/6603714)
 
